@@ -1,0 +1,38 @@
+Disease,Fever,Cough,Fatigue,Difficulty Breathing,Age,Gender,Blood Pressure,Cholesterol Level,Outcome Variable
+Influenza,Yes,No,Yes,Yes,19,Female,Low,Normal,Positive
+Common Cold,No,Yes,Yes,No,25,Female,Normal,Normal,Negative
+Eczema,No,Yes,Yes,No,25,Female,Normal,Normal,Negative
+Asthma,Yes,Yes,No,Yes,25,Male,Normal,Normal,Positive
+Eczema,Yes,No,No,No,25,Female,Normal,Normal,Positive
+Influenza,Yes,Yes,Yes,Yes,25,Female,Normal,Normal,Positive
+Hyperthyroidism,No,Yes,No,No,28,Female,Normal,Normal,Negative
+Asthma,Yes,No,No,Yes,28,Male,High,Normal,Positive
+Allergic Rhinitis,No,Yes,Yes,No,29,Female,Normal,Low,Negative
+Common Cold,No,No,No,No,29,Female,Low,Normal,Negative
+Eczema,No,Yes,Yes,No,30,Male,High,High,Negative
+Asthma,Yes,Yes,No,Yes,30,Female,Normal,Normal,Positive
+Asthma,Yes,Yes,Yes,Yes,30,Female,Normal,Normal,Positive
+Influenza,No,No,Yes,No,30,Female,High,High,Positive
+Influenza,Yes,Yes,No,Yes,30,Female,Low,Normal,Positive
+Asthma,Yes,No,No,No,30,Male,High,High,Positive
+Allergic Rhinitis,Yes,Yes,Yes,Yes,30,Female,High,High,Positive
+Asthma,Yes,No,No,No,30,Female,Normal,Normal,Positive
+Asthma,No,No,No,Yes,31,Male,Normal,Low,Negative
+Asthma,No,No,No,Yes,31,Male,Low,Normal,Negative
+Common Cold,Yes,No,Yes,Yes,32,Female,High,Normal,Positive
+Eczema,No,No,Yes,No,35,Female,Normal,Low,Negative
+Asthma,Yes,Yes,Yes,No,35,Female,Normal,Normal,Negative
+Influenza,No,No,Yes,No,35,Female,Normal,Normal,Positive
+Asthma,No,Yes,No,Yes,40,Female,Normal,Normal,Negative
+Asthma,No,No,Yes,Yes,40,Male,High,High,Negative
+Asthma,Yes,No,No,No,40,Female,High,High,Negative
+Influenza,No,Yes,Yes,No,40,Male,High,Normal,Positive
+Allergic Rhinitis,No,No,Yes,No,45,Male,Normal,Normal,Negative
+Asthma,Yes,No,No,No,45,Male,Normal,Normal,Negative
+Allergic Rhinitis,Yes,Yes,Yes,No,45,Female,High,High,Positive
+Asthma,No,Yes,No,No,50,Male,Low,High,Negative
+Eczema,Yes,Yes,Yes,No,50,Male,Normal,Normal,Negative
+Common Cold,No,Yes,Yes,Yes,50,Male,High,High,Positive
+Influenza,Yes,Yes,No,No,55,Female,High,High,Positive
+Hyperthyroidism,Yes,Yes,No,No,55,Female,Normal,Normal,Positive
+Asthma,No,No,Yes,No,60,Male,Normal,Normal,Negative

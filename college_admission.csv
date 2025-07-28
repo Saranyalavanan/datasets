@@ -1,0 +1,1001 @@
+ID,Name,Gender,Course,Admission Status
+1,Jessica Clark,Female,Mathematics,Pending
+2,Robert Garcia,Male,Physics,Pending
+3,Emily Moore,Female,Mathematics,Waitlisted
+4,Emily Lee,Female,Law,Waitlisted
+5,Linda Brown,Female,Computer Science,Pending
+6,Karen Wilson,Female,Psychology,Enrolled
+7,Michael Moore,Male,Mathematics,Pending
+8,Linda Smith,Female,Business,Waitlisted
+9,Linda Brown,Female,Computer Science,Waitlisted
+10,Sarah Lee,Female,Physics,Waitlisted
+11,Sarah Lee,Female,Law,Enrolled
+12,Charles Moore,Male,Art,Waitlisted
+13,Joseph Clark,Male,Art,Enrolled
+14,Robert Moore,Male,Psychology,Enrolled
+15,Sarah Garcia,Female,Physics,Pending
+16,David Lee,Male,Nursing,Pending
+17,Sarah Brown,Female,Mathematics,Pending
+18,Daniel Wilson,Male,Biology,Pending
+19,Jessica Clark,Female,Biology,Enrolled
+20,Nancy Lee,Female,Physics,Pending
+21,Michael Lee,Male,Computer Science,Waitlisted
+22,Joseph Lee,Male,Engineering,Waitlisted
+23,John Brown,Male,Psychology,Enrolled
+24,Joseph Clark,Male,Computer Science,Enrolled
+25,John Lee,Male,Psychology,Waitlisted
+26,Daniel Brown,Male,Art,Enrolled
+27,Linda Smith,Female,Computer Science,Waitlisted
+28,Anna Davis,Female,Physics,Waitlisted
+29,Anna Moore,Female,Engineering,Waitlisted
+30,William Smith,Male,Law,Enrolled
+31,Joseph Smith,Male,Physics,Waitlisted
+32,Laura Smith,Female,Law,Waitlisted
+33,Robert Jones,Male,Psychology,Enrolled
+34,James Davis,Male,Law,Pending
+35,William Jones,Male,Mathematics,Waitlisted
+36,William Clark,Male,Art,Enrolled
+37,Linda Jones,Female,Law,Enrolled
+38,Robert Lee,Male,Psychology,Waitlisted
+39,Emily Clark,Female,Biology,Pending
+40,Lisa Brown,Female,Business,Pending
+41,Nancy Clark,Female,Physics,Pending
+42,James Miller,Male,Computer Science,Pending
+43,Daniel Garcia,Male,Psychology,Waitlisted
+44,Jessica Smith,Female,Engineering,Waitlisted
+45,James Brown,Male,Physics,Waitlisted
+46,Lisa Miller,Female,Engineering,Enrolled
+47,Emily Brown,Female,Biology,Waitlisted
+48,William Clark,Male,Computer Science,Enrolled
+49,Anna Smith,Female,Law,Waitlisted
+50,Laura Garcia,Female,Art,Pending
+51,Karen Garcia,Female,Psychology,Waitlisted
+52,Karen Miller,Female,Business,Enrolled
+53,Anna Lee,Female,Mathematics,Waitlisted
+54,Joseph Davis,Male,Art,Enrolled
+55,Robert Moore,Male,Law,Waitlisted
+56,Karen Smith,Female,Psychology,Pending
+57,William Davis,Male,Psychology,Waitlisted
+58,Nancy Miller,Female,Biology,Waitlisted
+59,James Brown,Male,Engineering,Pending
+60,Linda Garcia,Female,Law,Pending
+61,Karen Davis,Female,Physics,Pending
+62,Emily Davis,Female,Law,Enrolled
+63,Jessica Garcia,Female,Psychology,Waitlisted
+64,Charles Moore,Male,Art,Enrolled
+65,David Clark,Male,Psychology,Waitlisted
+66,John Garcia,Male,Biology,Enrolled
+67,Jessica Clark,Female,Biology,Pending
+68,Jessica Miller,Female,Engineering,Enrolled
+69,Nancy Davis,Female,Computer Science,Pending
+70,Sandra Davis,Female,Mathematics,Waitlisted
+71,James Lee,Male,Computer Science,Enrolled
+72,Robert Smith,Male,Psychology,Pending
+73,Karen Brown,Female,Law,Waitlisted
+74,Thomas Wilson,Male,Biology,Pending
+75,John Brown,Male,Business,Waitlisted
+76,Charles Moore,Male,Law,Enrolled
+77,Linda Moore,Female,Law,Waitlisted
+78,Karen Garcia,Female,Engineering,Enrolled
+79,Sandra Jones,Female,Art,Enrolled
+80,Michael Jones,Male,Physics,Waitlisted
+81,Daniel Lee,Male,Mathematics,Waitlisted
+82,Laura Garcia,Female,Computer Science,Waitlisted
+83,William Lee,Male,Business,Enrolled
+84,Anna Garcia,Female,Engineering,Enrolled
+85,Sarah Clark,Female,Business,Enrolled
+86,Nancy Garcia,Female,Physics,Pending
+87,Robert Miller,Male,Law,Pending
+88,Thomas Brown,Male,Art,Waitlisted
+89,Robert Wilson,Male,Nursing,Waitlisted
+90,Jessica Jones,Female,Mathematics,Enrolled
+91,Lisa Clark,Female,Computer Science,Waitlisted
+92,Thomas Clark,Male,Mathematics,Enrolled
+93,Linda Garcia,Female,Computer Science,Enrolled
+94,Robert Brown,Male,Biology,Pending
+95,Robert Wilson,Male,Nursing,Waitlisted
+96,Karen Lee,Female,Biology,Waitlisted
+97,Joseph Lee,Male,Physics,Waitlisted
+98,Sandra Jones,Female,Nursing,Waitlisted
+99,Daniel Lee,Male,Physics,Waitlisted
+100,Sandra Brown,Female,Mathematics,Waitlisted
+101,Laura Garcia,Female,Computer Science,Pending
+102,Joseph Smith,Male,Biology,Waitlisted
+103,Daniel Miller,Male,Engineering,Pending
+104,Sandra Jones,Female,Nursing,Waitlisted
+105,Linda Smith,Female,Psychology,Pending
+106,Nancy Lee,Female,Mathematics,Waitlisted
+107,David Lee,Male,Mathematics,Waitlisted
+108,Jessica Brown,Female,Art,Enrolled
+109,William Clark,Male,Nursing,Pending
+110,John Brown,Male,Psychology,Waitlisted
+111,Sarah Davis,Female,Psychology,Enrolled
+112,Emily Clark,Female,Physics,Waitlisted
+113,Lisa Davis,Female,Mathematics,Enrolled
+114,Emily Brown,Female,Law,Waitlisted
+115,Karen Wilson,Female,Engineering,Pending
+116,Laura Smith,Female,Engineering,Pending
+117,Jessica Davis,Female,Art,Waitlisted
+118,Sarah Clark,Female,Business,Waitlisted
+119,Daniel Garcia,Male,Psychology,Enrolled
+120,Emily Brown,Female,Psychology,Pending
+121,Joseph Miller,Male,Psychology,Pending
+122,Sandra Garcia,Female,Computer Science,Pending
+123,Laura Garcia,Female,Mathematics,Waitlisted
+124,Emily Garcia,Female,Computer Science,Pending
+125,Emily Clark,Female,Nursing,Waitlisted
+126,Laura Moore,Female,Physics,Enrolled
+127,John Lee,Male,Engineering,Enrolled
+128,Karen Wilson,Female,Mathematics,Waitlisted
+129,Laura Brown,Female,Mathematics,Enrolled
+130,Linda Jones,Female,Law,Enrolled
+131,John Clark,Male,Computer Science,Waitlisted
+132,Joseph Moore,Male,Art,Enrolled
+133,Charles Lee,Male,Mathematics,Pending
+134,Joseph Jones,Male,Engineering,Pending
+135,David Davis,Male,Biology,Pending
+136,Charles Miller,Male,Nursing,Enrolled
+137,Linda Lee,Female,Business,Enrolled
+138,Charles Lee,Male,Psychology,Waitlisted
+139,Lisa Miller,Female,Physics,Pending
+140,John Jones,Male,Art,Waitlisted
+141,Sandra Wilson,Female,Physics,Enrolled
+142,James Davis,Male,Biology,Enrolled
+143,Joseph Jones,Male,Nursing,Waitlisted
+144,Anna Jones,Female,Art,Waitlisted
+145,Michael Miller,Male,Nursing,Pending
+146,Jessica Wilson,Female,Art,Waitlisted
+147,Daniel Lee,Male,Business,Enrolled
+148,Sandra Davis,Female,Biology,Pending
+149,Nancy Moore,Female,Biology,Enrolled
+150,Emily Smith,Female,Biology,Waitlisted
+151,Michael Moore,Male,Art,Pending
+152,Lisa Brown,Female,Art,Enrolled
+153,James Lee,Male,Physics,Enrolled
+154,Robert Smith,Male,Engineering,Waitlisted
+155,Charles Garcia,Male,Nursing,Enrolled
+156,Linda Clark,Female,Engineering,Waitlisted
+157,Jessica Wilson,Female,Computer Science,Waitlisted
+158,James Jones,Male,Engineering,Pending
+159,Charles Brown,Male,Law,Enrolled
+160,David Smith,Male,Law,Enrolled
+161,Robert Smith,Male,Computer Science,Pending
+162,Karen Moore,Female,Law,Pending
+163,Daniel Garcia,Male,Art,Enrolled
+164,Laura Brown,Female,Computer Science,Pending
+165,James Jones,Male,Biology,Waitlisted
+166,John Moore,Male,Physics,Enrolled
+167,Linda Davis,Female,Business,Enrolled
+168,Joseph Moore,Male,Computer Science,Enrolled
+169,William Davis,Male,Biology,Waitlisted
+170,Michael Wilson,Male,Nursing,Enrolled
+171,Michael Smith,Male,Business,Enrolled
+172,Emily Davis,Female,Psychology,Pending
+173,Karen Miller,Female,Engineering,Enrolled
+174,Daniel Lee,Male,Mathematics,Enrolled
+175,Charles Wilson,Male,Biology,Waitlisted
+176,Lisa Jones,Female,Physics,Pending
+177,Lisa Davis,Female,Business,Waitlisted
+178,Linda Lee,Female,Law,Waitlisted
+179,Sarah Brown,Female,Mathematics,Pending
+180,Sarah Davis,Female,Business,Waitlisted
+181,Lisa Moore,Female,Psychology,Enrolled
+182,Emily Garcia,Female,Nursing,Pending
+183,Sarah Garcia,Female,Nursing,Pending
+184,James Davis,Male,Mathematics,Pending
+185,Robert Brown,Male,Engineering,Pending
+186,Thomas Lee,Male,Computer Science,Pending
+187,Anna Jones,Female,Business,Waitlisted
+188,Laura Miller,Female,Engineering,Enrolled
+189,Jessica Miller,Female,Nursing,Pending
+190,William Garcia,Male,Law,Pending
+191,Daniel Wilson,Male,Biology,Pending
+192,Karen Smith,Female,Computer Science,Waitlisted
+193,Karen Miller,Female,Physics,Pending
+194,Sarah Smith,Female,Art,Waitlisted
+195,Joseph Davis,Male,Engineering,Waitlisted
+196,Thomas Clark,Male,Mathematics,Enrolled
+197,Joseph Moore,Male,Biology,Waitlisted
+198,Karen Clark,Female,Psychology,Enrolled
+199,Charles Wilson,Male,Physics,Enrolled
+200,Daniel Smith,Male,Computer Science,Pending
+201,Laura Miller,Female,Engineering,Enrolled
+202,John Wilson,Male,Mathematics,Enrolled
+203,Michael Jones,Male,Engineering,Pending
+204,James Brown,Male,Psychology,Waitlisted
+205,Linda Smith,Female,Engineering,Enrolled
+206,Daniel Brown,Male,Art,Waitlisted
+207,Laura Garcia,Female,Engineering,Waitlisted
+208,Charles Clark,Male,Biology,Enrolled
+209,Lisa Lee,Female,Nursing,Pending
+210,John Clark,Male,Engineering,Waitlisted
+211,Michael Davis,Male,Computer Science,Enrolled
+212,Emily Moore,Female,Engineering,Waitlisted
+213,John Moore,Male,Law,Enrolled
+214,Daniel Moore,Male,Mathematics,Waitlisted
+215,Karen Clark,Female,Art,Pending
+216,Linda Jones,Female,Engineering,Pending
+217,Lisa Brown,Female,Engineering,Enrolled
+218,Nancy Miller,Female,Computer Science,Pending
+219,David Garcia,Male,Biology,Waitlisted
+220,Lisa Davis,Female,Mathematics,Pending
+221,Karen Clark,Female,Psychology,Waitlisted
+222,Robert Moore,Male,Engineering,Waitlisted
+223,Anna Wilson,Female,Business,Pending
+224,Thomas Jones,Male,Business,Waitlisted
+225,Joseph Lee,Male,Computer Science,Waitlisted
+226,Jessica Garcia,Female,Engineering,Waitlisted
+227,Anna Brown,Female,Computer Science,Pending
+228,Daniel Brown,Male,Law,Pending
+229,William Davis,Male,Computer Science,Pending
+230,John Miller,Male,Psychology,Pending
+231,Sarah Garcia,Female,Psychology,Pending
+232,John Smith,Male,Art,Waitlisted
+233,Michael Lee,Male,Law,Pending
+234,Laura Smith,Female,Biology,Waitlisted
+235,John Clark,Male,Computer Science,Waitlisted
+236,Charles Davis,Male,Computer Science,Waitlisted
+237,Sandra Miller,Female,Nursing,Enrolled
+238,Robert Lee,Male,Nursing,Pending
+239,David Wilson,Male,Law,Pending
+240,Joseph Garcia,Male,Nursing,Enrolled
+241,Nancy Miller,Female,Business,Waitlisted
+242,Jessica Lee,Female,Biology,Enrolled
+243,Karen Davis,Female,Physics,Waitlisted
+244,Michael Clark,Male,Nursing,Enrolled
+245,Thomas Smith,Male,Nursing,Enrolled
+246,William Smith,Male,Biology,Pending
+247,Joseph Smith,Male,Engineering,Pending
+248,Thomas Garcia,Male,Physics,Pending
+249,Michael Jones,Male,Law,Enrolled
+250,Joseph Davis,Male,Business,Enrolled
+251,Emily Wilson,Female,Psychology,Waitlisted
+252,James Miller,Male,Engineering,Enrolled
+253,David Smith,Male,Mathematics,Pending
+254,James Moore,Male,Mathematics,Pending
+255,Thomas Moore,Male,Engineering,Pending
+256,Charles Moore,Male,Nursing,Pending
+257,Thomas Clark,Male,Psychology,Waitlisted
+258,Lisa Wilson,Female,Computer Science,Pending
+259,Daniel Brown,Male,Mathematics,Enrolled
+260,Jessica Smith,Female,Nursing,Enrolled
+261,David Garcia,Male,Business,Enrolled
+262,Lisa Davis,Female,Business,Pending
+263,Robert Garcia,Male,Psychology,Enrolled
+264,James Moore,Male,Psychology,Waitlisted
+265,Michael Davis,Male,Computer Science,Waitlisted
+266,John Miller,Male,Nursing,Enrolled
+267,Thomas Garcia,Male,Biology,Pending
+268,Thomas Lee,Male,Engineering,Waitlisted
+269,Lisa Wilson,Female,Psychology,Enrolled
+270,William Moore,Male,Mathematics,Pending
+271,Anna Wilson,Female,Art,Pending
+272,Laura Jones,Female,Biology,Waitlisted
+273,James Brown,Male,Physics,Enrolled
+274,Laura Garcia,Female,Mathematics,Pending
+275,Daniel Clark,Male,Nursing,Enrolled
+276,Sandra Jones,Female,Computer Science,Waitlisted
+277,Sandra Garcia,Female,Law,Enrolled
+278,Lisa Jones,Female,Law,Pending
+279,Linda Garcia,Female,Computer Science,Waitlisted
+280,Charles Smith,Male,Biology,Enrolled
+281,Michael Clark,Male,Biology,Waitlisted
+282,Jessica Clark,Female,Physics,Enrolled
+283,Jessica Davis,Female,Mathematics,Enrolled
+284,Thomas Miller,Male,Psychology,Enrolled
+285,Thomas Lee,Male,Physics,Pending
+286,Charles Lee,Male,Engineering,Waitlisted
+287,Karen Smith,Female,Psychology,Pending
+288,Laura Garcia,Female,Physics,Waitlisted
+289,Thomas Davis,Male,Engineering,Pending
+290,John Miller,Male,Biology,Pending
+291,Robert Lee,Male,Computer Science,Waitlisted
+292,Michael Miller,Male,Art,Waitlisted
+293,Michael Garcia,Male,Mathematics,Waitlisted
+294,Charles Brown,Male,Computer Science,Enrolled
+295,Charles Clark,Male,Computer Science,Waitlisted
+296,Sarah Moore,Female,Physics,Enrolled
+297,Thomas Jones,Male,Engineering,Pending
+298,Sarah Moore,Female,Biology,Enrolled
+299,Sandra Lee,Female,Business,Pending
+300,John Wilson,Male,Mathematics,Pending
+301,Linda Brown,Female,Physics,Enrolled
+302,Charles Jones,Male,Art,Pending
+303,Robert Smith,Male,Mathematics,Pending
+304,Daniel Garcia,Male,Nursing,Pending
+305,John Clark,Male,Art,Pending
+306,Jessica Davis,Female,Biology,Waitlisted
+307,Michael Moore,Male,Physics,Waitlisted
+308,David Smith,Male,Engineering,Pending
+309,Joseph Miller,Male,Art,Waitlisted
+310,Anna Moore,Female,Biology,Waitlisted
+311,Robert Clark,Male,Law,Enrolled
+312,Charles Garcia,Male,Computer Science,Waitlisted
+313,Joseph Garcia,Male,Physics,Pending
+314,Thomas Davis,Male,Computer Science,Pending
+315,Sandra Clark,Female,Business,Pending
+316,Emily Moore,Female,Physics,Pending
+317,Jessica Brown,Female,Nursing,Waitlisted
+318,Emily Garcia,Female,Nursing,Waitlisted
+319,Sarah Jones,Female,Nursing,Waitlisted
+320,Michael Moore,Male,Engineering,Waitlisted
+321,Michael Wilson,Male,Mathematics,Waitlisted
+322,Lisa Garcia,Female,Art,Pending
+323,John Brown,Male,Physics,Waitlisted
+324,Karen Brown,Female,Law,Waitlisted
+325,Sarah Smith,Female,Engineering,Enrolled
+326,Robert Wilson,Male,Nursing,Enrolled
+327,Sarah Lee,Female,Engineering,Waitlisted
+328,Lisa Brown,Female,Physics,Pending
+329,Laura Brown,Female,Art,Enrolled
+330,Michael Jones,Male,Mathematics,Waitlisted
+331,Joseph Smith,Male,Psychology,Waitlisted
+332,Charles Wilson,Male,Mathematics,Enrolled
+333,Robert Brown,Male,Biology,Pending
+334,Linda Miller,Female,Psychology,Enrolled
+335,Anna Moore,Female,Physics,Waitlisted
+336,David Lee,Male,Mathematics,Pending
+337,Laura Moore,Female,Computer Science,Waitlisted
+338,James Moore,Male,Nursing,Waitlisted
+339,John Davis,Male,Art,Enrolled
+340,Charles Lee,Male,Computer Science,Enrolled
+341,Sarah Wilson,Female,Art,Enrolled
+342,Michael Garcia,Male,Psychology,Pending
+343,Robert Miller,Male,Business,Enrolled
+344,Jessica Smith,Female,Computer Science,Enrolled
+345,Robert Jones,Male,Psychology,Pending
+346,Karen Lee,Female,Nursing,Waitlisted
+347,Laura Garcia,Female,Computer Science,Waitlisted
+348,Michael Wilson,Male,Computer Science,Pending
+349,Anna Moore,Female,Psychology,Pending
+350,Lisa Miller,Female,Biology,Enrolled
+351,Karen Lee,Female,Physics,Pending
+352,Joseph Smith,Male,Physics,Pending
+353,Thomas Davis,Male,Business,Pending
+354,Sarah Brown,Female,Biology,Waitlisted
+355,Sarah Smith,Female,Nursing,Pending
+356,James Miller,Male,Computer Science,Enrolled
+357,Karen Brown,Female,Nursing,Waitlisted
+358,Thomas Wilson,Male,Business,Enrolled
+359,Charles Jones,Male,Business,Waitlisted
+360,Sarah Clark,Female,Biology,Pending
+361,Anna Brown,Female,Biology,Enrolled
+362,Daniel Jones,Male,Biology,Pending
+363,Joseph Brown,Male,Biology,Pending
+364,William Clark,Male,Computer Science,Pending
+365,Robert Garcia,Male,Art,Enrolled
+366,Emily Lee,Female,Physics,Pending
+367,Linda Davis,Female,Psychology,Waitlisted
+368,James Clark,Male,Biology,Enrolled
+369,Anna Smith,Female,Physics,Pending
+370,James Garcia,Male,Mathematics,Enrolled
+371,Sarah Garcia,Female,Nursing,Enrolled
+372,William Brown,Male,Business,Waitlisted
+373,Thomas Garcia,Male,Mathematics,Waitlisted
+374,John Wilson,Male,Computer Science,Waitlisted
+375,William Garcia,Male,Business,Waitlisted
+376,Robert Garcia,Male,Psychology,Enrolled
+377,David Davis,Male,Nursing,Enrolled
+378,William Wilson,Male,Law,Enrolled
+379,Charles Clark,Male,Psychology,Pending
+380,Charles Wilson,Male,Mathematics,Waitlisted
+381,Thomas Brown,Male,Law,Enrolled
+382,John Smith,Male,Psychology,Pending
+383,Lisa Brown,Female,Nursing,Waitlisted
+384,Robert Davis,Male,Nursing,Pending
+385,Sarah Miller,Female,Engineering,Pending
+386,Nancy Davis,Female,Physics,Enrolled
+387,Charles Jones,Male,Psychology,Pending
+388,Lisa Davis,Female,Nursing,Enrolled
+389,Jessica Miller,Female,Biology,Pending
+390,Laura Jones,Female,Business,Enrolled
+391,Charles Clark,Male,Mathematics,Enrolled
+392,Laura Clark,Female,Art,Waitlisted
+393,Anna Clark,Female,Art,Pending
+394,James Miller,Male,Mathematics,Enrolled
+395,Michael Miller,Male,Mathematics,Waitlisted
+396,Thomas Clark,Male,Biology,Enrolled
+397,Nancy Wilson,Female,Psychology,Pending
+398,Laura Lee,Female,Engineering,Pending
+399,Robert Garcia,Male,Computer Science,Waitlisted
+400,Joseph Clark,Male,Psychology,Enrolled
+401,Thomas Lee,Male,Biology,Enrolled
+402,Thomas Smith,Male,Psychology,Pending
+403,Lisa Garcia,Female,Physics,Enrolled
+404,Jessica Smith,Female,Mathematics,Waitlisted
+405,Sandra Davis,Female,Business,Waitlisted
+406,Daniel Lee,Male,Art,Pending
+407,Laura Garcia,Female,Psychology,Enrolled
+408,Charles Miller,Male,Biology,Enrolled
+409,Daniel Smith,Male,Law,Pending
+410,Karen Jones,Female,Nursing,Pending
+411,Charles Clark,Male,Art,Waitlisted
+412,William Miller,Male,Biology,Waitlisted
+413,Thomas Davis,Male,Psychology,Waitlisted
+414,Jessica Jones,Female,Mathematics,Enrolled
+415,William Clark,Male,Computer Science,Pending
+416,James Wilson,Male,Biology,Pending
+417,Robert Brown,Male,Art,Pending
+418,Charles Wilson,Male,Mathematics,Pending
+419,Lisa Brown,Female,Nursing,Enrolled
+420,Linda Miller,Female,Mathematics,Pending
+421,Michael Clark,Male,Business,Pending
+422,Lisa Wilson,Female,Art,Waitlisted
+423,Sarah Brown,Female,Law,Waitlisted
+424,James Clark,Male,Nursing,Enrolled
+425,Anna Clark,Female,Law,Enrolled
+426,James Garcia,Male,Business,Enrolled
+427,Jessica Smith,Female,Psychology,Enrolled
+428,Jessica Smith,Female,Engineering,Enrolled
+429,Daniel Moore,Male,Engineering,Enrolled
+430,Sarah Miller,Female,Mathematics,Enrolled
+431,Nancy Moore,Female,Mathematics,Waitlisted
+432,Thomas Garcia,Male,Law,Pending
+433,William Garcia,Male,Nursing,Waitlisted
+434,Joseph Lee,Male,Psychology,Enrolled
+435,James Lee,Male,Business,Enrolled
+436,Anna Moore,Female,Physics,Pending
+437,Lisa Moore,Female,Art,Waitlisted
+438,Anna Wilson,Female,Mathematics,Pending
+439,Nancy Brown,Female,Computer Science,Pending
+440,Linda Wilson,Female,Art,Pending
+441,Emily Smith,Female,Mathematics,Waitlisted
+442,Daniel Davis,Male,Computer Science,Enrolled
+443,Daniel Moore,Male,Business,Waitlisted
+444,Sarah Jones,Female,Business,Enrolled
+445,Laura Brown,Female,Art,Pending
+446,Charles Davis,Male,Nursing,Enrolled
+447,Michael Miller,Male,Computer Science,Enrolled
+448,Lisa Miller,Female,Mathematics,Enrolled
+449,Linda Wilson,Female,Engineering,Enrolled
+450,Karen Smith,Female,Mathematics,Enrolled
+451,Emily Brown,Female,Computer Science,Pending
+452,Charles Clark,Male,Law,Waitlisted
+453,Anna Lee,Female,Art,Waitlisted
+454,James Garcia,Male,Law,Enrolled
+455,David Lee,Male,Engineering,Pending
+456,Nancy Brown,Female,Law,Pending
+457,Linda Brown,Female,Art,Waitlisted
+458,David Moore,Male,Nursing,Waitlisted
+459,Lisa Lee,Female,Engineering,Enrolled
+460,Robert Moore,Male,Physics,Waitlisted
+461,Sarah Garcia,Female,Art,Enrolled
+462,William Moore,Male,Mathematics,Pending
+463,John Garcia,Male,Engineering,Enrolled
+464,Charles Clark,Male,Psychology,Waitlisted
+465,Thomas Miller,Male,Nursing,Enrolled
+466,Jessica Smith,Female,Art,Enrolled
+467,William Brown,Male,Nursing,Pending
+468,Linda Miller,Female,Law,Enrolled
+469,Lisa Smith,Female,Biology,Enrolled
+470,James Wilson,Male,Psychology,Pending
+471,Daniel Smith,Male,Engineering,Waitlisted
+472,Linda Smith,Female,Art,Enrolled
+473,Karen Wilson,Female,Business,Enrolled
+474,William Lee,Male,Art,Enrolled
+475,Lisa Garcia,Female,Psychology,Pending
+476,Charles Garcia,Male,Physics,Waitlisted
+477,Lisa Moore,Female,Engineering,Waitlisted
+478,Michael Brown,Male,Biology,Pending
+479,Michael Moore,Male,Biology,Waitlisted
+480,James Clark,Male,Nursing,Enrolled
+481,Thomas Garcia,Male,Nursing,Pending
+482,Michael Clark,Male,Engineering,Enrolled
+483,Anna Garcia,Female,Biology,Waitlisted
+484,Charles Garcia,Male,Business,Pending
+485,Karen Clark,Female,Physics,Waitlisted
+486,Joseph Clark,Male,Engineering,Pending
+487,Linda Lee,Female,Computer Science,Waitlisted
+488,Joseph Davis,Male,Psychology,Waitlisted
+489,James Lee,Male,Business,Waitlisted
+490,Lisa Lee,Female,Nursing,Enrolled
+491,John Miller,Male,Business,Waitlisted
+492,Anna Miller,Female,Art,Waitlisted
+493,Daniel Clark,Male,Engineering,Enrolled
+494,Robert Brown,Male,Mathematics,Waitlisted
+495,Daniel Brown,Male,Engineering,Enrolled
+496,Joseph Smith,Male,Psychology,Waitlisted
+497,Emily Miller,Female,Biology,Waitlisted
+498,John Clark,Male,Biology,Pending
+499,Anna Moore,Female,Nursing,Enrolled
+500,Emily Lee,Female,Psychology,Waitlisted
+501,James Clark,Male,Business,Pending
+502,Thomas Miller,Male,Business,Waitlisted
+503,William Brown,Male,Mathematics,Pending
+504,Robert Brown,Male,Engineering,Pending
+505,Thomas Jones,Male,Mathematics,Enrolled
+506,Jessica Moore,Female,Computer Science,Enrolled
+507,Linda Smith,Female,Computer Science,Pending
+508,Thomas Smith,Male,Law,Waitlisted
+509,Charles Miller,Male,Business,Enrolled
+510,Anna Garcia,Female,Mathematics,Waitlisted
+511,Michael Lee,Male,Computer Science,Pending
+512,Sandra Brown,Female,Mathematics,Enrolled
+513,Emily Wilson,Female,Law,Pending
+514,John Moore,Male,Art,Waitlisted
+515,John Davis,Male,Computer Science,Enrolled
+516,Robert Jones,Male,Computer Science,Enrolled
+517,David Brown,Male,Business,Pending
+518,Michael Davis,Male,Biology,Pending
+519,Jessica Lee,Female,Psychology,Pending
+520,Sandra Garcia,Female,Nursing,Waitlisted
+521,Thomas Jones,Male,Nursing,Waitlisted
+522,Nancy Miller,Female,Engineering,Pending
+523,Daniel Lee,Male,Psychology,Enrolled
+524,Thomas Smith,Male,Biology,Pending
+525,David Moore,Male,Mathematics,Waitlisted
+526,Daniel Davis,Male,Art,Pending
+527,David Clark,Male,Engineering,Pending
+528,Sarah Garcia,Female,Mathematics,Pending
+529,James Clark,Male,Physics,Enrolled
+530,Michael Clark,Male,Law,Pending
+531,Anna Lee,Female,Engineering,Pending
+532,Linda Garcia,Female,Law,Pending
+533,Sarah Clark,Female,Law,Enrolled
+534,William Lee,Male,Physics,Pending
+535,Anna Garcia,Female,Engineering,Enrolled
+536,Robert Smith,Male,Law,Pending
+537,James Lee,Male,Law,Pending
+538,Sarah Clark,Female,Art,Waitlisted
+539,Thomas Davis,Male,Computer Science,Pending
+540,Charles Davis,Male,Engineering,Pending
+541,Karen Smith,Female,Physics,Pending
+542,James Miller,Male,Art,Enrolled
+543,William Moore,Male,Mathematics,Enrolled
+544,William Garcia,Male,Business,Waitlisted
+545,John Miller,Male,Art,Waitlisted
+546,Daniel Jones,Male,Art,Waitlisted
+547,Sarah Jones,Female,Engineering,Pending
+548,Emily Wilson,Female,Physics,Waitlisted
+549,Sandra Wilson,Female,Business,Pending
+550,Karen Jones,Female,Engineering,Waitlisted
+551,Charles Brown,Male,Law,Waitlisted
+552,Nancy Miller,Female,Computer Science,Waitlisted
+553,Nancy Clark,Female,Mathematics,Enrolled
+554,Daniel Miller,Male,Engineering,Pending
+555,Joseph Moore,Male,Law,Pending
+556,Sandra Davis,Female,Business,Pending
+557,James Clark,Male,Business,Waitlisted
+558,Michael Brown,Male,Engineering,Waitlisted
+559,Laura Lee,Female,Nursing,Waitlisted
+560,Joseph Wilson,Male,Law,Enrolled
+561,James Smith,Male,Psychology,Pending
+562,Linda Lee,Female,Psychology,Enrolled
+563,James Brown,Male,Law,Waitlisted
+564,Daniel Brown,Male,Nursing,Waitlisted
+565,Lisa Jones,Female,Mathematics,Waitlisted
+566,Michael Davis,Male,Art,Pending
+567,Linda Jones,Female,Business,Waitlisted
+568,Joseph Garcia,Male,Business,Waitlisted
+569,Sandra Miller,Female,Biology,Enrolled
+570,Laura Moore,Female,Law,Waitlisted
+571,William Brown,Male,Biology,Waitlisted
+572,Thomas Smith,Male,Biology,Pending
+573,William Brown,Male,Engineering,Enrolled
+574,Nancy Davis,Female,Psychology,Enrolled
+575,Nancy Garcia,Female,Psychology,Pending
+576,Emily Brown,Female,Law,Enrolled
+577,Thomas Wilson,Male,Mathematics,Waitlisted
+578,Michael Clark,Male,Law,Enrolled
+579,Jessica Davis,Female,Mathematics,Enrolled
+580,Michael Moore,Male,Computer Science,Pending
+581,Sandra Garcia,Female,Art,Enrolled
+582,Lisa Davis,Female,Physics,Waitlisted
+583,Lisa Lee,Female,Psychology,Enrolled
+584,Joseph Miller,Male,Law,Pending
+585,William Miller,Male,Law,Enrolled
+586,Robert Garcia,Male,Nursing,Pending
+587,Thomas Moore,Male,Biology,Pending
+588,James Miller,Male,Business,Pending
+589,Sarah Jones,Female,Art,Enrolled
+590,Thomas Jones,Male,Biology,Enrolled
+591,Nancy Davis,Female,Art,Pending
+592,Charles Jones,Male,Psychology,Waitlisted
+593,Lisa Wilson,Female,Law,Waitlisted
+594,Sandra Garcia,Female,Biology,Enrolled
+595,Emily Smith,Female,Art,Enrolled
+596,Jessica Clark,Female,Mathematics,Pending
+597,David Wilson,Male,Biology,Pending
+598,Anna Brown,Female,Art,Pending
+599,Sarah Smith,Female,Nursing,Pending
+600,Karen Brown,Female,Mathematics,Enrolled
+601,Sarah Moore,Female,Mathematics,Pending
+602,Joseph Jones,Male,Psychology,Waitlisted
+603,Daniel Clark,Male,Business,Pending
+604,Emily Lee,Female,Biology,Enrolled
+605,Emily Miller,Female,Law,Enrolled
+606,Thomas Wilson,Male,Physics,Pending
+607,Thomas Clark,Male,Computer Science,Enrolled
+608,Linda Garcia,Female,Mathematics,Enrolled
+609,Jessica Miller,Female,Law,Enrolled
+610,James Garcia,Male,Law,Pending
+611,James Moore,Male,Nursing,Waitlisted
+612,Nancy Smith,Female,Physics,Waitlisted
+613,Nancy Garcia,Female,Mathematics,Waitlisted
+614,Emily Smith,Female,Computer Science,Waitlisted
+615,Sarah Clark,Female,Psychology,Pending
+616,Sarah Davis,Female,Biology,Enrolled
+617,Karen Garcia,Female,Law,Pending
+618,Nancy Jones,Female,Engineering,Pending
+619,Lisa Miller,Female,Biology,Waitlisted
+620,Robert Jones,Male,Biology,Pending
+621,Charles Miller,Male,Biology,Enrolled
+622,John Davis,Male,Psychology,Waitlisted
+623,Sandra Davis,Female,Nursing,Pending
+624,Sarah Davis,Female,Computer Science,Pending
+625,Daniel Wilson,Male,Nursing,Waitlisted
+626,Daniel Smith,Male,Physics,Waitlisted
+627,Daniel Lee,Male,Engineering,Enrolled
+628,William Jones,Male,Nursing,Enrolled
+629,Lisa Brown,Female,Physics,Pending
+630,Thomas Smith,Male,Nursing,Waitlisted
+631,Robert Davis,Male,Psychology,Waitlisted
+632,Lisa Clark,Female,Biology,Pending
+633,Michael Garcia,Male,Business,Pending
+634,Karen Brown,Female,Physics,Waitlisted
+635,Emily Clark,Female,Physics,Waitlisted
+636,Robert Miller,Male,Art,Waitlisted
+637,Jessica Brown,Female,Physics,Pending
+638,Sarah Lee,Female,Engineering,Waitlisted
+639,Joseph Miller,Male,Mathematics,Enrolled
+640,Anna Moore,Female,Biology,Waitlisted
+641,David Lee,Male,Business,Waitlisted
+642,David Moore,Male,Engineering,Enrolled
+643,Robert Smith,Male,Art,Waitlisted
+644,Jessica Moore,Female,Business,Enrolled
+645,Robert Moore,Male,Art,Enrolled
+646,David Jones,Male,Mathematics,Waitlisted
+647,James Smith,Male,Law,Pending
+648,Charles Davis,Male,Mathematics,Waitlisted
+649,Robert Moore,Male,Business,Enrolled
+650,Michael Smith,Male,Physics,Waitlisted
+651,Linda Jones,Female,Computer Science,Enrolled
+652,Linda Smith,Female,Biology,Enrolled
+653,Robert Garcia,Male,Psychology,Waitlisted
+654,Daniel Davis,Male,Physics,Enrolled
+655,Laura Brown,Female,Biology,Waitlisted
+656,Linda Wilson,Female,Psychology,Enrolled
+657,Linda Wilson,Female,Psychology,Pending
+658,James Jones,Male,Physics,Enrolled
+659,Michael Lee,Male,Art,Waitlisted
+660,Sarah Lee,Female,Biology,Enrolled
+661,Emily Smith,Female,Biology,Enrolled
+662,Thomas Brown,Male,Mathematics,Enrolled
+663,Sarah Brown,Female,Art,Pending
+664,Jessica Jones,Female,Engineering,Pending
+665,Daniel Brown,Male,Engineering,Pending
+666,Lisa Wilson,Female,Biology,Enrolled
+667,Jessica Garcia,Female,Physics,Enrolled
+668,Laura Miller,Female,Engineering,Enrolled
+669,Sandra Jones,Female,Mathematics,Waitlisted
+670,Michael Brown,Male,Law,Enrolled
+671,Sandra Miller,Female,Psychology,Pending
+672,Lisa Garcia,Female,Engineering,Enrolled
+673,Laura Moore,Female,Art,Waitlisted
+674,Sandra Brown,Female,Computer Science,Waitlisted
+675,Michael Clark,Male,Computer Science,Waitlisted
+676,Thomas Davis,Male,Physics,Enrolled
+677,Linda Jones,Female,Engineering,Enrolled
+678,Emily Lee,Female,Psychology,Waitlisted
+679,Jessica Jones,Female,Biology,Pending
+680,Emily Lee,Female,Law,Waitlisted
+681,Joseph Smith,Male,Nursing,Pending
+682,Michael Smith,Male,Nursing,Waitlisted
+683,Karen Garcia,Female,Art,Enrolled
+684,Emily Lee,Female,Physics,Pending
+685,Joseph Brown,Male,Business,Waitlisted
+686,John Miller,Male,Biology,Pending
+687,Karen Clark,Female,Nursing,Pending
+688,Daniel Brown,Male,Mathematics,Pending
+689,Thomas Wilson,Male,Nursing,Pending
+690,Michael Lee,Male,Law,Pending
+691,Nancy Davis,Female,Biology,Pending
+692,Sarah Clark,Female,Physics,Waitlisted
+693,Sandra Davis,Female,Art,Enrolled
+694,Emily Lee,Female,Computer Science,Enrolled
+695,Charles Garcia,Male,Engineering,Waitlisted
+696,Emily Miller,Female,Nursing,Pending
+697,Michael Wilson,Male,Art,Waitlisted
+698,Sarah Davis,Female,Computer Science,Pending
+699,Daniel Wilson,Male,Nursing,Pending
+700,Sandra Lee,Female,Mathematics,Waitlisted
+701,Nancy Moore,Female,Mathematics,Pending
+702,Thomas Jones,Male,Business,Waitlisted
+703,Anna Wilson,Female,Business,Enrolled
+704,Emily Jones,Female,Business,Pending
+705,David Davis,Male,Mathematics,Enrolled
+706,William Jones,Male,Mathematics,Waitlisted
+707,William Moore,Male,Psychology,Enrolled
+708,Charles Smith,Male,Biology,Waitlisted
+709,Linda Wilson,Female,Law,Enrolled
+710,Nancy Lee,Female,Art,Pending
+711,Daniel Garcia,Male,Business,Waitlisted
+712,Sandra Miller,Female,Law,Waitlisted
+713,James Smith,Male,Biology,Pending
+714,Karen Moore,Female,Engineering,Waitlisted
+715,Thomas Clark,Male,Physics,Enrolled
+716,Robert Wilson,Male,Nursing,Enrolled
+717,Jessica Moore,Female,Art,Enrolled
+718,Karen Miller,Female,Physics,Waitlisted
+719,Charles Moore,Male,Nursing,Waitlisted
+720,Jessica Clark,Female,Law,Waitlisted
+721,Jessica Smith,Female,Law,Waitlisted
+722,Emily Brown,Female,Business,Waitlisted
+723,Laura Garcia,Female,Psychology,Enrolled
+724,Karen Davis,Female,Computer Science,Pending
+725,Karen Moore,Female,Computer Science,Enrolled
+726,Karen Wilson,Female,Physics,Waitlisted
+727,William Miller,Male,Engineering,Pending
+728,Charles Clark,Male,Biology,Pending
+729,Robert Smith,Male,Business,Waitlisted
+730,Karen Davis,Female,Nursing,Waitlisted
+731,William Garcia,Male,Biology,Enrolled
+732,Michael Davis,Male,Business,Pending
+733,Daniel Brown,Male,Computer Science,Enrolled
+734,James Davis,Male,Psychology,Waitlisted
+735,Emily Davis,Female,Biology,Enrolled
+736,Sarah Clark,Female,Art,Enrolled
+737,Daniel Lee,Male,Computer Science,Pending
+738,Robert Miller,Male,Psychology,Waitlisted
+739,William Davis,Male,Engineering,Enrolled
+740,Michael Smith,Male,Psychology,Enrolled
+741,Emily Davis,Female,Law,Pending
+742,Anna Davis,Female,Physics,Waitlisted
+743,Michael Jones,Male,Biology,Pending
+744,Anna Garcia,Female,Art,Pending
+745,Thomas Brown,Male,Business,Enrolled
+746,Thomas Lee,Male,Engineering,Waitlisted
+747,James Miller,Male,Business,Enrolled
+748,Joseph Moore,Male,Psychology,Pending
+749,Linda Clark,Female,Psychology,Pending
+750,Laura Davis,Female,Physics,Pending
+751,William Wilson,Male,Mathematics,Pending
+752,Michael Smith,Male,Psychology,Waitlisted
+753,Robert Smith,Male,Law,Enrolled
+754,Sarah Moore,Female,Computer Science,Waitlisted
+755,Laura Miller,Female,Art,Enrolled
+756,Michael Smith,Male,Nursing,Waitlisted
+757,Sandra Moore,Female,Psychology,Pending
+758,Linda Garcia,Female,Law,Pending
+759,Joseph Clark,Male,Biology,Pending
+760,Sarah Garcia,Female,Law,Enrolled
+761,James Wilson,Male,Biology,Enrolled
+762,Jessica Garcia,Female,Nursing,Waitlisted
+763,Nancy Miller,Female,Law,Pending
+764,William Moore,Male,Nursing,Enrolled
+765,Thomas Miller,Male,Law,Waitlisted
+766,Laura Miller,Female,Art,Waitlisted
+767,John Smith,Male,Business,Waitlisted
+768,Daniel Lee,Male,Law,Waitlisted
+769,Linda Garcia,Female,Physics,Enrolled
+770,Robert Brown,Male,Physics,Waitlisted
+771,Robert Jones,Male,Business,Pending
+772,John Smith,Male,Business,Enrolled
+773,Daniel Brown,Male,Physics,Pending
+774,Sarah Jones,Female,Business,Pending
+775,Karen Wilson,Female,Engineering,Pending
+776,Robert Moore,Male,Business,Pending
+777,Lisa Smith,Female,Computer Science,Enrolled
+778,Michael Smith,Male,Computer Science,Waitlisted
+779,Thomas Moore,Male,Art,Enrolled
+780,Sandra Lee,Female,Biology,Waitlisted
+781,Sarah Brown,Female,Biology,Enrolled
+782,Sarah Miller,Female,Engineering,Enrolled
+783,Michael Brown,Male,Computer Science,Pending
+784,Karen Moore,Female,Biology,Waitlisted
+785,Daniel Brown,Male,Business,Enrolled
+786,Michael Garcia,Male,Physics,Pending
+787,Nancy Miller,Female,Business,Waitlisted
+788,Sarah Wilson,Female,Engineering,Waitlisted
+789,Michael Brown,Male,Nursing,Waitlisted
+790,Lisa Brown,Female,Mathematics,Enrolled
+791,Lisa Smith,Female,Engineering,Waitlisted
+792,James Clark,Male,Nursing,Waitlisted
+793,Michael Davis,Male,Psychology,Waitlisted
+794,Thomas Wilson,Male,Engineering,Pending
+795,Jessica Smith,Female,Art,Pending
+796,Laura Wilson,Female,Business,Waitlisted
+797,Sandra Garcia,Female,Art,Enrolled
+798,Sarah Jones,Female,Mathematics,Pending
+799,Thomas Jones,Male,Physics,Pending
+800,William Davis,Male,Computer Science,Waitlisted
+801,Daniel Wilson,Male,Biology,Pending
+802,Robert Jones,Male,Law,Pending
+803,Anna Brown,Female,Psychology,Enrolled
+804,Joseph Moore,Male,Business,Pending
+805,Linda Miller,Female,Computer Science,Waitlisted
+806,Laura Moore,Female,Engineering,Pending
+807,Laura Brown,Female,Mathematics,Pending
+808,Karen Smith,Female,Physics,Waitlisted
+809,Linda Moore,Female,Psychology,Enrolled
+810,Jessica Smith,Female,Law,Enrolled
+811,James Miller,Male,Business,Pending
+812,Karen Moore,Female,Computer Science,Enrolled
+813,John Moore,Male,Engineering,Waitlisted
+814,James Brown,Male,Law,Pending
+815,Laura Brown,Female,Psychology,Pending
+816,Michael Lee,Male,Computer Science,Enrolled
+817,Daniel Lee,Male,Physics,Pending
+818,Anna Smith,Female,Mathematics,Enrolled
+819,David Lee,Male,Biology,Pending
+820,Anna Miller,Female,Biology,Waitlisted
+821,Sarah Lee,Female,Business,Waitlisted
+822,Joseph Jones,Male,Engineering,Enrolled
+823,Charles Garcia,Male,Nursing,Waitlisted
+824,William Brown,Male,Computer Science,Waitlisted
+825,Karen Jones,Female,Biology,Enrolled
+826,Sarah Clark,Female,Computer Science,Enrolled
+827,Daniel Jones,Male,Business,Pending
+828,Karen Miller,Female,Computer Science,Waitlisted
+829,Robert Smith,Male,Mathematics,Pending
+830,Anna Jones,Female,Engineering,Waitlisted
+831,Nancy Wilson,Female,Law,Pending
+832,Robert Smith,Male,Business,Enrolled
+833,Emily Jones,Female,Computer Science,Pending
+834,Thomas Davis,Male,Law,Enrolled
+835,Jessica Davis,Female,Engineering,Enrolled
+836,John Davis,Male,Physics,Enrolled
+837,Daniel Davis,Male,Business,Pending
+838,James Smith,Male,Physics,Enrolled
+839,Laura Smith,Female,Engineering,Waitlisted
+840,Sandra Clark,Female,Engineering,Waitlisted
+841,Nancy Clark,Female,Art,Enrolled
+842,Charles Jones,Male,Business,Enrolled
+843,Charles Clark,Male,Engineering,Pending
+844,Thomas Jones,Male,Mathematics,Waitlisted
+845,Daniel Jones,Male,Law,Enrolled
+846,Joseph Smith,Male,Biology,Waitlisted
+847,Michael Wilson,Male,Computer Science,Enrolled
+848,Sarah Jones,Female,Nursing,Pending
+849,Thomas Clark,Male,Mathematics,Enrolled
+850,Karen Garcia,Female,Physics,Enrolled
+851,Daniel Wilson,Male,Biology,Enrolled
+852,Jessica Wilson,Female,Biology,Waitlisted
+853,Sarah Smith,Female,Physics,Waitlisted
+854,Robert Clark,Male,Mathematics,Waitlisted
+855,Thomas Jones,Male,Computer Science,Waitlisted
+856,Charles Smith,Male,Computer Science,Enrolled
+857,Sandra Moore,Female,Law,Pending
+858,Lisa Garcia,Female,Art,Pending
+859,Michael Moore,Male,Art,Enrolled
+860,Linda Jones,Female,Art,Pending
+861,Lisa Clark,Female,Computer Science,Pending
+862,Daniel Moore,Male,Law,Pending
+863,Lisa Clark,Female,Computer Science,Waitlisted
+864,Robert Wilson,Male,Art,Enrolled
+865,David Smith,Male,Computer Science,Enrolled
+866,John Clark,Male,Psychology,Waitlisted
+867,Laura Lee,Female,Art,Waitlisted
+868,Linda Miller,Female,Engineering,Waitlisted
+869,Linda Garcia,Female,Mathematics,Waitlisted
+870,Joseph Brown,Male,Biology,Pending
+871,Charles Wilson,Male,Nursing,Pending
+872,Jessica Brown,Female,Art,Enrolled
+873,James Jones,Male,Biology,Enrolled
+874,Anna Davis,Female,Art,Enrolled
+875,Linda Moore,Female,Business,Waitlisted
+876,William Miller,Male,Psychology,Pending
+877,Charles Miller,Male,Computer Science,Waitlisted
+878,Laura Davis,Female,Nursing,Waitlisted
+879,Jessica Clark,Female,Biology,Waitlisted
+880,John Davis,Male,Engineering,Pending
+881,Laura Garcia,Female,Law,Waitlisted
+882,Daniel Miller,Male,Engineering,Waitlisted
+883,Nancy Jones,Female,Physics,Enrolled
+884,Robert Moore,Male,Law,Pending
+885,Sarah Garcia,Female,Biology,Enrolled
+886,Joseph Moore,Male,Law,Waitlisted
+887,Karen Wilson,Female,Psychology,Pending
+888,Daniel Garcia,Male,Nursing,Waitlisted
+889,Sandra Smith,Female,Psychology,Pending
+890,Jessica Moore,Female,Nursing,Waitlisted
+891,Anna Miller,Female,Biology,Pending
+892,Charles Miller,Male,Computer Science,Enrolled
+893,Laura Wilson,Female,Engineering,Pending
+894,Charles Brown,Male,Business,Waitlisted
+895,Joseph Brown,Male,Computer Science,Enrolled
+896,Charles Jones,Male,Nursing,Waitlisted
+897,David Wilson,Male,Computer Science,Waitlisted
+898,James Lee,Male,Computer Science,Pending
+899,Sandra Wilson,Female,Physics,Enrolled
+900,Nancy Jones,Female,Nursing,Waitlisted
+901,Joseph Clark,Male,Business,Pending
+902,Sandra Lee,Female,Engineering,Pending
+903,Anna Moore,Female,Law,Pending
+904,Michael Garcia,Male,Physics,Waitlisted
+905,Robert Jones,Male,Psychology,Waitlisted
+906,Laura Wilson,Female,Biology,Pending
+907,David Davis,Male,Mathematics,Pending
+908,Robert Jones,Male,Nursing,Waitlisted
+909,William Lee,Male,Mathematics,Enrolled
+910,Laura Davis,Female,Biology,Waitlisted
+911,Lisa Garcia,Female,Engineering,Enrolled
+912,Thomas Davis,Male,Nursing,Waitlisted
+913,Anna Davis,Female,Computer Science,Pending
+914,Laura Moore,Female,Biology,Waitlisted
+915,Jessica Lee,Female,Biology,Waitlisted
+916,Robert Wilson,Male,Computer Science,Enrolled
+917,Michael Clark,Male,Business,Enrolled
+918,Emily Garcia,Female,Physics,Enrolled
+919,Michael Moore,Male,Computer Science,Enrolled
+920,John Brown,Male,Nursing,Waitlisted
+921,Michael Wilson,Male,Psychology,Pending
+922,Thomas Davis,Male,Law,Enrolled
+923,Robert Miller,Male,Law,Waitlisted
+924,Emily Garcia,Female,Physics,Waitlisted
+925,William Davis,Male,Engineering,Pending
+926,Sarah Lee,Female,Art,Pending
+927,Robert Jones,Male,Art,Enrolled
+928,John Clark,Male,Biology,Pending
+929,Sandra Wilson,Female,Engineering,Waitlisted
+930,Charles Moore,Male,Business,Waitlisted
+931,Anna Garcia,Female,Mathematics,Pending
+932,Sandra Smith,Female,Business,Waitlisted
+933,Joseph Garcia,Male,Computer Science,Enrolled
+934,Anna Wilson,Female,Art,Enrolled
+935,Sandra Smith,Female,Nursing,Waitlisted
+936,William Clark,Male,Mathematics,Pending
+937,Daniel Wilson,Male,Physics,Pending
+938,Sarah Jones,Female,Law,Enrolled
+939,Charles Moore,Male,Computer Science,Waitlisted
+940,David Garcia,Male,Computer Science,Pending
+941,Sarah Wilson,Female,Physics,Waitlisted
+942,Robert Smith,Male,Physics,Pending
+943,Joseph Moore,Male,Biology,Waitlisted
+944,Thomas Wilson,Male,Art,Enrolled
+945,Thomas Clark,Male,Art,Waitlisted
+946,Michael Moore,Male,Engineering,Pending
+947,Sarah Wilson,Female,Nursing,Pending
+948,Jessica Davis,Female,Art,Enrolled
+949,Michael Garcia,Male,Business,Enrolled
+950,James Brown,Male,Art,Waitlisted
+951,John Moore,Male,Physics,Pending
+952,Charles Wilson,Male,Biology,Pending
+953,Nancy Clark,Female,Computer Science,Enrolled
+954,Jessica Garcia,Female,Art,Pending
+955,Jessica Wilson,Female,Biology,Enrolled
+956,Lisa Clark,Female,Art,Pending
+957,Anna Clark,Female,Art,Enrolled
+958,Emily Clark,Female,Business,Enrolled
+959,Nancy Lee,Female,Biology,Pending
+960,David Wilson,Male,Engineering,Pending
+961,Anna Jones,Female,Biology,Pending
+962,Joseph Lee,Male,Computer Science,Waitlisted
+963,Daniel Smith,Male,Business,Enrolled
+964,Thomas Clark,Male,Biology,Pending
+965,Thomas Miller,Male,Mathematics,Pending
+966,John Lee,Male,Mathematics,Enrolled
+967,Daniel Moore,Male,Engineering,Enrolled
+968,Laura Moore,Female,Law,Pending
+969,Daniel Miller,Male,Computer Science,Enrolled
+970,Linda Lee,Female,Computer Science,Enrolled
+971,John Miller,Male,Biology,Pending
+972,Michael Smith,Male,Art,Waitlisted
+973,John Miller,Male,Business,Enrolled
+974,Daniel Smith,Male,Engineering,Pending
+975,Linda Smith,Female,Physics,Waitlisted
+976,Anna Brown,Female,Art,Waitlisted
+977,James Garcia,Male,Computer Science,Enrolled
+978,John Miller,Male,Art,Waitlisted
+979,Laura Smith,Female,Art,Waitlisted
+980,Michael Garcia,Male,Physics,Pending
+981,William Smith,Male,Physics,Enrolled
+982,Nancy Garcia,Female,Nursing,Pending
+983,William Smith,Male,Art,Pending
+984,John Lee,Male,Physics,Enrolled
+985,Michael Miller,Male,Nursing,Enrolled
+986,Daniel Miller,Male,Physics,Waitlisted
+987,David Smith,Male,Nursing,Enrolled
+988,Nancy Jones,Female,Mathematics,Enrolled
+989,Michael Lee,Male,Engineering,Pending
+990,Linda Davis,Female,Mathematics,Waitlisted
+991,Nancy Brown,Female,Computer Science,Waitlisted
+992,Linda Jones,Female,Physics,Enrolled
+993,Lisa Smith,Female,Psychology,Waitlisted
+994,David Davis,Male,Law,Enrolled
+995,Michael Clark,Male,Art,Pending
+996,Sandra Moore,Female,Physics,Pending
+997,Anna Clark,Female,Biology,Waitlisted
+998,Thomas Garcia,Male,Nursing,Pending
+999,Michael Miller,Male,Physics,Waitlisted
+1000,James Wilson,Male,Nursing,Waitlisted
