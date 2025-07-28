@@ -1,0 +1,701 @@
+Transaction_ID,Date,Customer_Name,products,Payment_Method,City
+1000000000,21-01-2022 06:27,Stacey Price,"citrus fruit,semi-finished bread,margarine,ready soups",Mobile Payment,Los Angeles
+1000000001,01-03-2023 13:01,Michelle Carlson,"tropical fruit,yogurt,coffee",Cash,San Francisco
+1000000002,21-03-2024 15:37,Lisa Graves,whole milk,Credit Card,Houston
+1000000003,31-10-2020 09:59,Mrs. Patricia May,"pip fruit,yogurt,cream cheese ,meat spreads",Mobile Payment,Chicago
+1000000004,10-12-2020 00:59,Susan Mitchell,"other vegetables,whole milk,condensed milk,long life bakery product",Debit Card,Houston
+1000000005,07-10-2021 12:37,Joshua Frazier,"whole milk,butter,yogurt,rice,abrasive cleaner",Cash,Houston
+1000000006,08-01-2023 10:40,Victoria Garrett,rolls/buns,Cash,Boston
+1000000007,03-09-2020 12:39,Sydney Waller,"other vegetables,UHT-milk,rolls/buns,bottled beer,liquor (appetizer)",Debit Card,Chicago
+1000000008,05-04-2021 06:32,Kimberly Morgan,pot plants,Mobile Payment,Los Angeles
+1000000009,08-07-2021 10:08,Lori Conway,"whole milk,cereals",Mobile Payment,Boston
+1000000010,18-03-2020 18:58,Randall Roberts,"tropical fruit,other vegetables,white bread,bottled water,chocolate",Debit Card,Boston
+1000000011,30-03-2023 19:26,Jeremiah White,"citrus fruit,tropical fruit,whole milk,butter,curd,yogurt,flour,bottled water,dishes",Mobile Payment,New York
+1000000012,27-05-2023 15:52,Sheila Mcgee,beef,Debit Card,New York
+1000000013,02-04-2023 09:24,Allen Miles,"frankfurter,rolls/buns,soda",Mobile Payment,Seattle
+1000000014,09-04-2020 04:31,Mark Howard,"chicken,tropical fruit",Credit Card,San Francisco
+1000000015,01-01-2021 04:29,Jesse Henderson,"butter,sugar,fruit/vegetable juice,newspapers",Mobile Payment,San Francisco
+1000000016,15-10-2021 13:24,Eric Wall,fruit/vegetable juice,Mobile Payment,Miami
+1000000017,16-09-2021 09:28,Vanessa Peck,packaged fruit/vegetables,Credit Card,San Francisco
+1000000018,18-07-2022 11:33,Dominique Stout,chocolate,Mobile Payment,New York
+1000000019,31-01-2021 07:52,Charles Brooks,specialty bar,Debit Card,Chicago
+1000000020,31-10-2021 07:46,Angela Jones,other vegetables,Cash,Houston
+1000000021,30-12-2022 20:03,John Roberts,"butter milk,pastry",Credit Card,Miami
+1000000022,08-06-2021 10:28,Nicole White,whole milk,Mobile Payment,New York
+1000000023,03-01-2020 23:24,Don Harris,"tropical fruit,cream cheese ,processed cheese,detergent,newspapers",Cash,San Francisco
+1000000024,27-02-2023 16:46,Hannah Rowland,"tropical fruit,root vegetables,other vegetables,frozen dessert,rolls/buns,flour,sweet spreads,salty snack,waffles,candy,bathroom cleaner",Debit Card,Dallas
+1000000025,14-02-2020 13:19,Jessica Gonzalez,"bottled water,canned beer",Credit Card,New York
+1000000026,21-09-2020 10:34,Christina Smith,yogurt,Debit Card,Dallas
+1000000027,26-03-2020 22:08,Latoya Allen,"sausage,rolls/buns,soda,chocolate",Mobile Payment,Boston
+1000000028,13-08-2022 01:26,Clayton Roth,other vegetables,Credit Card,San Francisco
+1000000029,27-02-2020 10:23,Dennis Alvarez,"brown bread,soda,fruit/vegetable juice,canned beer,newspapers,shopping bags",Mobile Payment,Houston
+1000000030,08-01-2023 22:59,Jose Hill,"yogurt,beverages,bottled water,specialty bar",Debit Card,Boston
+1000000031,04-05-2024 13:22,Kristin Webb,"hamburger meat,other vegetables,rolls/buns,spices,bottled water,hygiene articles,napkins",Debit Card,Houston
+1000000032,04-04-2023 10:57,Robert Gilbert DDS,"root vegetables,other vegetables,whole milk,beverages,sugar",Debit Card,Chicago
+1000000033,26-03-2022 19:18,Thomas Oliver,"pork,berries,other vegetables,whole milk,whipped/sour cream,artif. sweetener,soda,abrasive cleaner",Credit Card,Chicago
+1000000034,07-02-2023 14:09,Stacy Owen,"beef,grapes,detergent",Credit Card,San Francisco
+1000000035,12-10-2022 11:57,Ann Kane,"pastry,soda",Credit Card,Miami
+1000000036,16-10-2020 09:05,Mr. John Long,fruit/vegetable juice,Debit Card,Chicago
+1000000037,31-05-2020 05:35,Annette Robinson,canned beer,Mobile Payment,Los Angeles
+1000000038,11-07-2020 22:15,Kimberly Baldwin,"root vegetables,other vegetables,whole milk,dessert",Credit Card,New York
+1000000039,11-07-2023 11:36,Donald Bradford,"citrus fruit,zwieback,newspapers",Cash,Dallas
+1000000040,31-05-2022 17:09,Mike Gilbert,"sausage,rolls/buns,soda,canned beer,specialty bar,shopping bags",Credit Card,Atlanta
+1000000041,01-07-2023 20:11,Rebecca Morton,"tropical fruit,root vegetables,whole milk,yogurt,domestic eggs,brown bread,pastry,sugar,cereals,coffee,soda,waffles,candy",Debit Card,Miami
+1000000042,13-11-2023 12:48,Nicole Hernandez,"berries,yogurt",Cash,Boston
+1000000043,12-10-2020 12:39,Paige White,canned beer,Cash,Atlanta
+1000000044,21-09-2022 05:09,Mr. Lance Perkins,"butter milk,yogurt,cream cheese ,spread cheese,rolls/buns,bottled water,soda,newspapers",Cash,Atlanta
+1000000045,28-10-2022 18:17,Kelly Foley,coffee,Credit Card,Chicago
+1000000046,10-05-2024 23:21,Paula Maldonado,"pastry,bottled water",Cash,Dallas
+1000000047,06-02-2023 01:31,Roberto Franklin,rolls/buns,Mobile Payment,Los Angeles
+1000000048,17-04-2024 00:49,Steven Clements,misc. beverages,Credit Card,Seattle
+1000000049,24-06-2021 14:01,Katherine Luna,"root vegetables,other vegetables,butter,curd,whipped/sour cream,UHT-milk,hard cheese,rolls/buns,bottled water,long life bakery product",Cash,Houston
+1000000050,10-04-2021 19:14,Ryan Hammond,"sausage,rolls/buns,cat food,newspapers",Mobile Payment,San Francisco
+1000000051,18-09-2023 09:06,Valerie Johnson,canned beer,Mobile Payment,Miami
+1000000052,10-05-2020 17:02,Jennifer Mitchell,"ham,grapes,other vegetables,whole milk",Mobile Payment,Boston
+1000000053,30-12-2020 14:17,Nathan Schwartz,"turkey,tropical fruit,other vegetables,curd,domestic eggs,brown bread,semi-finished bread,margarine,baking powder,fruit/vegetable juice",Cash,Houston
+1000000054,02-03-2023 19:56,Rebecca Gilmore,"whole milk,yogurt,processed cheese,pickled vegetables,soda",Debit Card,Los Angeles
+1000000055,23-06-2022 18:30,Todd Parrish,"whole milk,curd,yogurt,pastry",Mobile Payment,Seattle
+1000000056,09-05-2022 08:42,Christopher Blake,"packaged fruit/vegetables,brown bread,canned beer",Cash,Dallas
+1000000057,23-11-2021 07:49,Marie Young,"rolls/buns,oil,bottled water,chewing gum,chocolate marshmallow,hygiene articles,napkins",Cash,Los Angeles
+1000000058,11-01-2024 05:41,James Mccarthy,"ham,beef,whipped/sour cream,ice cream,rolls/buns,cat food",Mobile Payment,Miami
+1000000059,30-06-2020 00:58,Sharon Espinoza,"rolls/buns,pastry,sugar",Debit Card,Atlanta
+1000000060,11-11-2021 03:45,Rachel Rasmussen,"other vegetables,whole milk,frozen vegetables,canned fish,salty snack,seasonal products,detergent",Credit Card,Seattle
+1000000061,28-10-2021 20:51,Thomas Lowery,"sausage,pastry",Credit Card,Boston
+1000000062,23-06-2021 06:46,Richard Johnston,"sausage,beef,whole milk",Cash,Chicago
+1000000063,24-08-2023 05:20,Rebecca Vasquez,"frankfurter,tropical fruit,rolls/buns,brown bread,sugar",Mobile Payment,Houston
+1000000064,28-06-2021 06:41,Samuel Mays,"rolls/buns,pastry,soda",Cash,San Francisco
+1000000065,14-08-2023 13:19,Karen Williams,whole milk,Debit Card,New York
+1000000066,08-04-2022 08:49,Ian Murphy,"curd cheese,coffee",Credit Card,Miami
+1000000067,04-04-2020 01:57,Elizabeth Li,"red/blush wine,newspapers",Mobile Payment,Miami
+1000000068,30-10-2021 21:16,Brenda Chase,"sausage,whole milk,curd",Cash,Dallas
+1000000069,19-08-2022 07:26,Anthony Miranda,"tropical fruit,pip fruit,berries,whole milk,frozen potato products,rolls/buns,pickled vegetables,chocolate",Cash,Seattle
+1000000070,21-09-2020 09:18,Patricia Adams,red/blush wine,Credit Card,Atlanta
+1000000071,11-05-2020 12:03,Jacob Douglas,"whole milk,butter,margarine,specialty fat,specialty chocolate,candles,flower (seeds)",Mobile Payment,Houston
+1000000072,27-10-2022 03:15,Martin Gonzalez,"frankfurter,citrus fruit,whole milk,domestic eggs,oil,sparkling wine,specialty chocolate,newspapers",Mobile Payment,Los Angeles
+1000000073,13-06-2021 14:25,Sherry Nunez,"whole milk,meat spreads,soda",Credit Card,Miami
+1000000074,16-03-2020 13:50,Joshua Livingston,frozen potato products,Mobile Payment,Dallas
+1000000075,28-05-2023 19:43,Kimberly Morton,"other vegetables,whole milk,rolls/buns,sugar",Debit Card,Seattle
+1000000076,11-04-2024 22:31,Robin Graham,"citrus fruit,whole milk,curd,butter milk,pastry",Cash,Atlanta
+1000000077,18-03-2024 02:50,Donna Randall,"flour,salt,bottled water,fruit/vegetable juice,bottled beer",Mobile Payment,Los Angeles
+1000000078,06-01-2021 11:48,Alfred Schneider,"sugar,bottled water,soda,bottled beer",Debit Card,Dallas
+1000000079,24-01-2024 16:50,Taylor Wilson,"frozen meals,coffee",Cash,Los Angeles
+1000000080,16-05-2020 23:24,Matthew Henderson,chocolate,Mobile Payment,Miami
+1000000081,10-05-2022 23:55,Christina Hoover,"root vegetables,whole milk,frozen vegetables,domestic eggs,rolls/buns,oil,margarine,canned vegetables,fruit/vegetable juice,bathroom cleaner",Credit Card,New York
+1000000082,12-09-2021 13:17,Paul Tate,"root vegetables,onions,hard cheese,frozen vegetables",Debit Card,New York
+1000000083,10-09-2020 19:56,Melissa Rose,"herbs,condensed milk,frozen vegetables,salt,oil,white wine,candles",Debit Card,Seattle
+1000000084,30-05-2022 10:26,Brittany Simmons,bottled water,Mobile Payment,Chicago
+1000000085,28-10-2020 23:16,Henry Kirk,"sausage,root vegetables,onions,yogurt,rolls/buns,brandy,detergent",Credit Card,Dallas
+1000000086,22-09-2020 03:20,James Richardson,"coffee,newspapers",Cash,Seattle
+1000000087,03-09-2021 01:57,Keith Rodriguez,"pork,other vegetables,whipped/sour cream",Cash,Chicago
+1000000088,23-04-2020 04:16,Marie Owen,"berries,yogurt",Cash,Seattle
+1000000089,23-03-2021 19:58,James Adams,soda,Credit Card,New York
+1000000090,18-11-2023 20:40,Troy Durham,berries,Debit Card,Los Angeles
+1000000091,03-04-2023 21:35,Dr. Adam Chan,"fruit/vegetable juice,salty snack,candles",Credit Card,Miami
+1000000092,08-02-2023 15:22,Mark Blankenship,"citrus fruit,butter milk,yogurt,cream cheese ",Mobile Payment,Miami
+1000000093,30-12-2023 04:04,Brooke Bennett,"pork,hamburger meat,citrus fruit,berries,onions,whipped/sour cream,rice,coffee,chocolate",Cash,Boston
+1000000094,10-04-2021 16:00,Dale Castaneda,detergent,Credit Card,Chicago
+1000000095,08-02-2022 17:55,Jim Wells,"grapes,photo/film",Mobile Payment,Chicago
+1000000096,11-05-2021 19:50,Michael Johnson,"sausage,sliced cheese,rolls/buns,brown bread,fruit/vegetable juice,canned beer,red/blush wine,waffles,shopping bags",Cash,Seattle
+1000000097,29-07-2022 17:21,Lisa Delgado,"chicken,hamburger meat,citrus fruit,tropical fruit,root vegetables,other vegetables,butter,pasta,oil,detergent",Mobile Payment,Miami
+1000000098,05-10-2022 18:14,Matthew Jackson,"whole milk,yogurt,brown bread",Mobile Payment,Miami
+1000000099,01-08-2020 23:03,Nicholas Stephens,"citrus fruit,tropical fruit",Credit Card,Chicago
+1000000100,15-01-2020 21:16,Jean Moore,"soda,misc. beverages",Mobile Payment,Houston
+1000000101,15-03-2021 01:30,Daniel Johnson,"sausage,pork,grapes,whole milk,rolls/buns,pastry,soda,specialty bar,bathroom cleaner",Mobile Payment,New York
+1000000102,22-10-2022 16:34,Maria Murray MD,"frankfurter,rolls/buns,bottled water",Credit Card,Los Angeles
+1000000103,10-02-2020 01:48,Scott Hunter,"sausage,whole milk,yogurt,coffee,fruit/vegetable juice,bottled beer,softener,napkins,photo/film,shopping bags",Cash,San Francisco
+1000000104,27-12-2022 06:34,Sean Moore,soda,Cash,New York
+1000000105,21-04-2021 03:43,Alexander Harmon,"rolls/buns,fruit/vegetable juice",Cash,Seattle
+1000000106,14-05-2022 12:06,David Rodriguez,"beef,citrus fruit,berries,root vegetables,brown bread,detergent",Mobile Payment,Dallas
+1000000107,30-01-2023 16:47,Linda Davis,"whole milk,whipped/sour cream,rolls/buns,soda,waffles,candy,cling film/bags",Cash,Seattle
+1000000108,11-10-2023 18:27,Linda Hayden,processed cheese,Credit Card,Seattle
+1000000109,24-09-2022 01:38,Connie Baker,"tropical fruit,pip fruit",Mobile Payment,Seattle
+1000000110,23-04-2021 13:09,Mr. Kenneth Watson,"frankfurter,sausage,root vegetables,other vegetables,rolls/buns,oil,pickled vegetables,bottled beer,chewing gum,dishes",Cash,Miami
+1000000111,21-09-2022 12:12,Maurice Brown,"packaged fruit/vegetables,bottled water",Cash,Miami
+1000000112,11-01-2022 11:36,William Wood,"whole milk,dessert,frozen vegetables,rolls/buns,margarine,bottled water,red/blush wine,newspapers",Cash,Atlanta
+1000000113,24-04-2023 01:06,Javier Ryan,"berries,whipped/sour cream",Credit Card,Miami
+1000000114,31-07-2021 22:35,Mr. David Casey,"citrus fruit,berries,UHT-milk,processed cheese",Debit Card,Los Angeles
+1000000115,12-12-2021 02:59,Ms. Megan Hicks,"tropical fruit,whole milk,yogurt",Cash,San Francisco
+1000000116,05-03-2024 06:13,Debbie Tucker,"hamburger meat,whole milk,frozen vegetables,rolls/buns,bottled beer,sparkling wine",Mobile Payment,San Francisco
+1000000117,05-01-2021 21:56,Joseph Guzman,"hamburger meat,other vegetables,whole milk,frozen vegetables,domestic eggs,soda,dishes",Credit Card,San Francisco
+1000000118,06-04-2023 20:51,Xavier Tran,"whole milk,cream cheese ,soda",Credit Card,Seattle
+1000000119,21-06-2021 07:37,Janet Sullivan,"fish,other vegetables,pastry,margarine,coffee,long life bakery product,male cosmetics,shopping bags",Debit Card,Atlanta
+1000000120,26-02-2023 11:40,James Ray,"frankfurter,sausage,long life bakery product,waffles",Mobile Payment,New York
+1000000121,21-03-2022 14:49,Jason Marshall,"packaged fruit/vegetables,dessert,semi-finished bread,canned beer",Debit Card,Los Angeles
+1000000122,29-08-2020 13:41,Alexander Wright,"pastry,soda",Mobile Payment,Chicago
+1000000123,17-09-2023 23:36,Cathy Jackson,"other vegetables,red/blush wine",Credit Card,Miami
+1000000124,21-08-2023 07:05,Mercedes Anderson,misc. beverages,Debit Card,Miami
+1000000125,02-05-2021 14:10,Anthony Christensen,"frankfurter,sausage,citrus fruit,tropical fruit,pip fruit,whole milk,hard cheese,cream cheese ,domestic eggs,rice,sugar,canned fruit,misc. beverages,fruit/vegetable juice,hygiene articles",Cash,Chicago
+1000000126,10-08-2022 00:26,Cameron Walker,sparkling wine,Debit Card,San Francisco
+1000000127,02-06-2021 05:16,Paul Brown,specialty bar,Cash,Boston
+1000000128,30-04-2024 02:08,Kimberly Stevens,"sausage,butter milk,rolls/buns",Cash,Los Angeles
+1000000129,28-10-2020 23:23,Jordan Garcia,curd cheese,Mobile Payment,Houston
+1000000130,08-09-2022 07:32,Ryan Joseph II,"frankfurter,dessert",Credit Card,Miami
+1000000131,02-09-2022 23:11,Debbie Brown,"whole milk,yogurt,beverages,brown bread,shopping bags",Mobile Payment,Boston
+1000000132,18-04-2021 21:43,Dawn Pratt,newspapers,Mobile Payment,Atlanta
+1000000133,08-07-2022 20:10,Madison Hill,"berries,soda",Debit Card,Boston
+1000000134,28-10-2020 03:12,Kelly Atkinson,"curd,flour,liquor (appetizer)",Mobile Payment,Atlanta
+1000000135,04-05-2020 09:30,Patricia Fuller,"tropical fruit,other vegetables,coffee",Mobile Payment,Seattle
+1000000136,26-02-2021 11:14,Debra Brown,soda,Credit Card,Chicago
+1000000137,02-11-2023 09:25,Brett Hernandez,"rolls/buns,Instant food products",Mobile Payment,Chicago
+1000000138,07-04-2021 10:10,Diane Hughes,canned beer,Mobile Payment,Dallas
+1000000139,03-11-2022 02:17,Jeffrey Jones,canned beer,Credit Card,Dallas
+1000000140,08-12-2020 16:09,Frank Torres,"frankfurter,sausage,whole milk,rolls/buns,margarine",Mobile Payment,San Francisco
+1000000141,05-03-2023 04:11,Daniel Mcguire,"other vegetables,misc. beverages,canned beer",Credit Card,Miami
+1000000142,18-03-2023 16:05,Russell Harmon,"whole milk,frozen vegetables",Cash,Miami
+1000000143,04-04-2024 05:28,John Benitez,whole milk,Credit Card,Miami
+1000000144,19-11-2022 23:47,Wesley Delacruz,"citrus fruit,butter,cream cheese ,white bread,oil,margarine,newspapers",Cash,San Francisco
+1000000145,07-02-2023 02:49,Shannon Reid,"frankfurter,rolls/buns",Mobile Payment,Seattle
+1000000146,31-12-2022 19:41,Steven Brown,"frankfurter,ham,pip fruit,other vegetables,whole milk,soft cheese,frozen vegetables,rolls/buns,sugar,baking powder",Debit Card,Miami
+1000000147,18-03-2021 13:20,Harold Miller,"butter milk,yogurt,honey,soda,detergent",Cash,Los Angeles
+1000000148,28-07-2023 08:34,Jessica Middleton,"hamburger meat,citrus fruit,onions,rolls/buns,bottled water,dental care",Debit Card,Chicago
+1000000149,11-04-2021 04:00,Luke Bell,"pasta,popcorn",Debit Card,Houston
+1000000150,22-09-2020 10:18,James Morales,"other vegetables,whole milk,meat spreads,cake bar,chocolate,shopping bags",Debit Card,Seattle
+1000000151,17-04-2021 12:55,Ian Wilkinson,"sausage,pork,citrus fruit,dessert,white bread,dishes,candles",Debit Card,San Francisco
+1000000152,28-07-2020 04:10,Jason Andrade,rolls/buns,Credit Card,Los Angeles
+1000000153,11-12-2023 12:45,Zachary Anderson,"grapes,other vegetables,curd,dessert,yogurt,napkins",Cash,New York
+1000000154,20-09-2023 21:00,Michael Perkins,"root vegetables,other vegetables,whole milk,yogurt,beverages,soft cheese,frozen vegetables,fruit/vegetable juice,bottled beer",Credit Card,Seattle
+1000000155,18-04-2020 01:29,Andre Davis,"coffee,shopping bags",Mobile Payment,Los Angeles
+1000000156,09-10-2023 12:34,Heather Le,popcorn,Cash,Dallas
+1000000157,11-10-2021 03:22,Morgan Black,"whole milk,rolls/buns,sugar,bottled water,soda",Mobile Payment,San Francisco
+1000000158,19-03-2023 13:07,Chelsea Harding,"tropical fruit,other vegetables,packaged fruit/vegetables,whole milk,snack products",Debit Card,Seattle
+1000000159,20-11-2021 09:58,Tracy Bruce,"beef,herbs,flour,cling film/bags,flower soil/fertilizer",Mobile Payment,Miami
+1000000160,28-02-2024 14:41,Michael Perez,"whole milk,butter,dessert,rolls/buns",Mobile Payment,New York
+1000000161,10-03-2022 22:42,Ryan Atkinson,"frankfurter,soda,chewing gum",Mobile Payment,Miami
+1000000162,26-10-2022 23:16,Trevor Miller,"tropical fruit,specialty cheese,bottled water",Mobile Payment,Chicago
+1000000163,20-08-2020 15:17,Lisa Taylor,canned beer,Cash,Chicago
+1000000164,03-12-2023 03:08,Erik Russell,"finished products,other vegetables,frozen vegetables,bottled beer",Cash,Los Angeles
+1000000165,25-04-2021 05:04,Ms. Bianca Larson DDS,"beverages,soda",Mobile Payment,New York
+1000000166,24-04-2024 21:49,Gary Jones,"hamburger meat,root vegetables,whole milk",Cash,Dallas
+1000000167,24-10-2020 14:25,Douglas Gray,"whole milk,pastry,long life bakery product",Cash,Los Angeles
+1000000168,28-06-2020 18:14,Lori Davis,"finished products,white wine,shopping bags",Credit Card,Seattle
+1000000169,24-06-2023 14:37,Kelly Hall MD,other vegetables,Debit Card,New York
+1000000170,03-09-2023 18:28,Scott Johnson,"ham,tropical fruit,other vegetables,whole milk,white bread,brown bread,fruit/vegetable juice,bottled beer",Mobile Payment,Dallas
+1000000171,14-02-2023 22:57,Regina Andersen,other vegetables,Mobile Payment,Los Angeles
+1000000172,27-08-2021 21:54,Jennifer Schmidt,"curd,butter milk,cocoa drinks,salty snack,popcorn",Credit Card,Seattle
+1000000173,11-11-2020 23:34,Manuel Drake,bottled beer,Mobile Payment,Dallas
+1000000174,16-04-2021 22:38,James Ho DDS,"curd,dessert,soda,salty snack,waffles,cake bar,chocolate,shopping bags",Cash,Seattle
+1000000175,07-04-2024 21:08,Ryan Snow,"whole milk,cream cheese ,cereals,dog food",Cash,Seattle
+1000000176,23-01-2023 07:31,Jessica Nolan,"whole milk,salt",Debit Card,Seattle
+1000000177,13-11-2022 20:33,Joann Davies,"dessert,ice cream",Credit Card,Chicago
+1000000178,17-03-2024 00:34,Lori Hill,"sausage,soft cheese,coffee",Debit Card,Chicago
+1000000179,16-12-2021 19:32,Trevor Jenkins,"other vegetables,bottled water,waffles,dishes,shopping bags",Debit Card,San Francisco
+1000000180,21-06-2021 05:47,Jose Baker,"ham,whole milk,rolls/buns",Mobile Payment,Los Angeles
+1000000181,05-12-2020 01:54,Courtney Meyer,"other vegetables,ice cream",Debit Card,Chicago
+1000000182,18-11-2020 08:26,John Burton,"other vegetables,bottled water",Credit Card,New York
+1000000183,31-12-2021 01:19,Janet Robinson,"soda,bottled beer,white wine,prosecco",Debit Card,San Francisco
+1000000184,09-03-2022 04:31,Mitchell Jackson,"herbs,candy",Mobile Payment,Atlanta
+1000000185,31-03-2020 05:22,Paula Gutierrez,"frankfurter,ham,tropical fruit,pip fruit,root vegetables,other vegetables,whole milk,butter,curd,yogurt,whipped/sour cream,soft cheese,sliced cheese,cream cheese ,frozen meals,frozen fish,domestic eggs,white bread,sugar,cereals,fruit/vegetable juice,bottled beer,waffles",Mobile Payment,Los Angeles
+1000000186,06-01-2022 08:14,Rebecca Rice,"rolls/buns,canned beer",Cash,San Francisco
+1000000187,15-09-2022 21:05,Samantha Wallace,"curd,cream cheese ,semi-finished bread,zwieback,cake bar,specialty bar,shopping bags",Mobile Payment,Dallas
+1000000188,13-09-2022 05:58,Luke Hall,"frankfurter,tropical fruit,whole milk,spread cheese,margarine,shopping bags",Mobile Payment,Los Angeles
+1000000189,28-03-2021 23:25,Michael Gonzalez,other vegetables,Credit Card,Seattle
+1000000190,14-01-2024 10:01,Tyler Smith,dog food,Mobile Payment,Chicago
+1000000191,11-02-2020 11:41,Terry Norman,specialty bar,Debit Card,San Francisco
+1000000192,26-04-2024 00:16,Cody Cobb,"curd,salt,liquor (appetizer),detergent,shopping bags",Debit Card,Houston
+1000000193,13-10-2020 15:30,Sierra Scott,"frankfurter,rolls/buns",Debit Card,Boston
+1000000194,24-07-2020 06:17,Emily Underwood,soda,Cash,Houston
+1000000195,01-04-2023 14:19,Arthur Myers,"beef,berries,root vegetables,whole milk,dessert,spread cheese,brown bread",Mobile Payment,Miami
+1000000196,24-04-2022 04:38,Nicole Cantrell,canned beer,Cash,Dallas
+1000000197,04-06-2022 19:22,John Martin,"pork,beef,pip fruit,herbs,spices",Cash,Miami
+1000000198,26-01-2021 05:46,Jerry Williams,"frankfurter,citrus fruit,UHT-milk,margarine,sugar",Debit Card,Chicago
+1000000199,06-02-2022 01:27,Jeffrey Brown,"sausage,bottled beer,liquor (appetizer)",Cash,Miami
+1000000200,11-06-2023 10:26,Andrea Snyder,canned beer,Debit Card,Boston
+1000000201,16-02-2024 00:17,Nancy Jackson,specialty chocolate,Debit Card,Houston
+1000000202,01-03-2020 20:12,Olivia Jimenez,"curd,rolls/buns",Mobile Payment,Atlanta
+1000000203,11-09-2021 18:36,Angel Garcia,canned beer,Credit Card,Seattle
+1000000204,29-11-2023 19:00,Amy Rodriguez,"whole milk,bottled water,newspapers",Cash,Miami
+1000000205,27-12-2023 05:05,Angela Clark,"rolls/buns,chewing gum",Mobile Payment,San Francisco
+1000000206,01-05-2023 05:29,Kelly Thompson,"pork,root vegetables,other vegetables,whole milk,dishes",Mobile Payment,San Francisco
+1000000207,10-04-2021 08:08,Ryan Melendez,"citrus fruit,pastry",Mobile Payment,Chicago
+1000000208,01-06-2022 00:16,Kimberly Cisneros,pot plants,Cash,Chicago
+1000000209,20-08-2021 06:00,Cole Smith,"rolls/buns,pastry,soda",Cash,Boston
+1000000210,17-09-2023 01:37,Craig Smith,"butter,yogurt,bottled water,soda,make up remover,hygiene articles",Credit Card,Miami
+1000000211,04-05-2021 16:16,Rodney Randolph,"condensed milk,sugar,coffee,shopping bags",Debit Card,Houston
+1000000212,30-09-2020 11:28,Patrick Campbell,"sausage,other vegetables,yogurt,soda,shopping bags",Cash,Boston
+1000000213,30-09-2021 05:17,Emily Whitehead,"whole milk,beverages,UHT-milk,soda",Credit Card,Miami
+1000000214,12-05-2023 08:08,Shawn Joyce,"sausage,pork,beef,whole milk,rolls/buns,margarine",Mobile Payment,Seattle
+1000000215,03-01-2020 23:36,Ashley White,beverages,Credit Card,Los Angeles
+1000000216,03-05-2022 19:43,Richard Harris,"beverages,specialty bar",Mobile Payment,Dallas
+1000000217,18-09-2021 05:56,Matthew Bowen,"bottled water,fruit/vegetable juice",Cash,Boston
+1000000218,04-09-2021 06:01,James Smith,newspapers,Credit Card,Los Angeles
+1000000219,06-11-2020 04:18,Julia Baldwin,"cleaner,female sanitary products",Mobile Payment,New York
+1000000220,02-02-2024 13:06,Kathleen Cline,"sausage,soda,newspapers,shopping bags",Debit Card,Miami
+1000000221,20-04-2023 04:26,Ashley Jones,newspapers,Credit Card,Houston
+1000000222,05-02-2021 07:29,Matthew Hogan,"sausage,beef,citrus fruit,other vegetables,whole milk,butter milk,whipped/sour cream,beverages,hard cheese,rolls/buns,dish cleaner,cookware",Cash,San Francisco
+1000000223,01-03-2023 23:31,Kristin Hudson,"misc. beverages,newspapers",Debit Card,San Francisco
+1000000224,09-10-2020 05:10,Terri Dunn,white wine,Credit Card,Atlanta
+1000000225,13-08-2021 13:03,Jorge Keller,"sausage,sliced cheese,rolls/buns,soda,canned beer,shopping bags",Credit Card,San Francisco
+1000000226,17-11-2022 05:57,Leslie Bell,"meat,curd,bottled beer,cake bar",Debit Card,Seattle
+1000000227,15-02-2020 09:07,Bradley Flynn,"frankfurter,meat,tropical fruit,onions,oil,baking powder,tea,cling film/bags",Cash,San Francisco
+1000000228,21-02-2021 21:33,Morgan Phillips,"ice cream,rolls/buns,canned beer",Cash,Atlanta
+1000000229,10-07-2021 18:05,Victoria Duran,canned beer,Credit Card,San Francisco
+1000000230,15-05-2022 13:30,Bruce Smith,"tropical fruit,berries,root vegetables,other vegetables,bottled water,shopping bags",Debit Card,Dallas
+1000000231,15-09-2022 19:30,Miss Jaime Roy MD,"meat,citrus fruit,other vegetables,curd,dessert,butter milk,beverages,cream cheese ,rolls/buns,brown bread,tea,bottled water",Cash,San Francisco
+1000000232,12-07-2021 19:21,Paul Kline,"whole milk,mustard,bottled water",Debit Card,San Francisco
+1000000233,24-04-2023 04:09,Mary Ryan,"sausage,beef,beverages,sliced cheese,rolls/buns,spices,house keeping products,flower (seeds)",Cash,Seattle
+1000000234,09-05-2023 07:42,Charles Parrish,"frankfurter,sausage,root vegetables,butter,curd,sliced cheese,rolls/buns,salty snack,long life bakery product",Credit Card,Houston
+1000000235,06-12-2023 22:36,Victor Baker,"meat,other vegetables,butter,rolls/buns",Mobile Payment,Chicago
+1000000236,24-07-2023 04:23,Mary Graham,"root vegetables,beverages,Instant food products,pickled vegetables,detergent",Mobile Payment,Miami
+1000000237,04-12-2023 13:25,Matthew Peterson,"root vegetables,herbs,other vegetables,whole milk,sliced cheese,rolls/buns",Mobile Payment,Seattle
+1000000238,25-04-2023 09:57,Leslie Walsh,"whole milk,whipped/sour cream,semi-finished bread,margarine",Cash,Miami
+1000000239,31-08-2022 22:42,Gabriel Lucero,"citrus fruit,whole milk,curd,dessert,yogurt,whipped/sour cream,frozen dessert,rolls/buns,salt,sugar,cereals,canned vegetables,canned fish,skin care,hygiene articles,napkins",Mobile Payment,Chicago
+1000000240,21-11-2022 07:58,Connor Moore,"citrus fruit,curd,pastry,margarine,sugar,candy,newspapers",Cash,Dallas
+1000000241,03-12-2022 02:43,Amy Campbell,"other vegetables,whole milk,bottled water,soda,misc. beverages,bottled beer,red/blush wine,napkins",Debit Card,San Francisco
+1000000242,20-04-2020 02:30,Lee Ramirez,"citrus fruit,whole milk,rolls/buns",Mobile Payment,Chicago
+1000000243,11-03-2020 18:33,Jaime Parker,"sausage,oil,hygiene articles,napkins",Mobile Payment,Dallas
+1000000244,01-04-2022 11:38,James Bailey,"frankfurter,beef,hamburger meat,grapes,root vegetables,whole milk,butter,frozen dessert,potato products,bottled water,bottled beer",Debit Card,Los Angeles
+1000000245,16-12-2022 10:50,Sara Lee,"hard cheese,rolls/buns,bottled water,newspapers",Credit Card,Los Angeles
+1000000246,27-10-2021 14:16,Joanne Flores,"cream cheese ,rolls/buns,soda,chocolate",Mobile Payment,Miami
+1000000247,18-04-2023 14:44,Kevin Cruz,"turkey,beef,frozen vegetables,dishes,photo/film",Debit Card,Houston
+1000000248,24-11-2020 20:47,Dawn Benson,"pork,other vegetables,whipped/sour cream,rolls/buns,soda,shopping bags",Cash,Miami
+1000000249,16-04-2021 11:55,Ronald Pacheco,"whole milk,beverages",Cash,Atlanta
+1000000250,24-01-2024 03:46,Tracey Allen,"rolls/buns,soda",Credit Card,Seattle
+1000000251,03-01-2021 09:31,Tamara Burke,"sausage,pip fruit,whole milk,curd,yogurt,sliced cheese,rolls/buns,bottled water,hygiene articles",Mobile Payment,Los Angeles
+1000000252,13-04-2022 04:44,Cheryl Benson,ice cream,Debit Card,San Francisco
+1000000253,19-12-2020 02:54,Taylor Jimenez,liquor,Mobile Payment,Seattle
+1000000254,01-03-2023 20:48,Brenda Greene,"pip fruit,other vegetables,fruit/vegetable juice",Cash,Los Angeles
+1000000255,25-08-2021 11:41,Mark Johnson,"root vegetables,other vegetables,yogurt",Mobile Payment,Seattle
+1000000256,20-02-2022 22:41,Kenneth Williams,soda,Debit Card,Boston
+1000000257,17-04-2024 12:35,Nicholas Ellison,soda,Mobile Payment,Dallas
+1000000258,03-03-2023 15:39,Felicia Johnson,"sausage,citrus fruit,tropical fruit,other vegetables,whole milk,yogurt,rolls/buns,bottled water,soda,chocolate,newspapers",Credit Card,Atlanta
+1000000259,11-12-2021 10:43,Kelly Adams,"root vegetables,whole milk,pet care,detergent",Credit Card,Seattle
+1000000260,09-05-2022 08:59,Richard Hopkins,"pork,berries,root vegetables,other vegetables,pastry,specialty bar",Debit Card,Dallas
+1000000261,21-11-2022 12:53,Brenda Brown,pork,Debit Card,Chicago
+1000000262,14-12-2021 17:24,David Henry,chocolate,Credit Card,Los Angeles
+1000000263,31-05-2020 15:32,Catherine Rodriguez,fruit/vegetable juice,Credit Card,New York
+1000000264,08-09-2021 12:36,Sean Obrien,"pickled vegetables,coffee",Mobile Payment,New York
+1000000265,15-11-2023 17:33,Scott Byrd,bottled water,Credit Card,Seattle
+1000000266,27-09-2022 03:45,Sheila Carroll,"frankfurter,sausage,butter,whipped/sour cream,rolls/buns,margarine,spices",Mobile Payment,Houston
+1000000267,02-01-2020 00:27,Jason Rodriguez,"tropical fruit,pip fruit,onions,other vegetables,whole milk,domestic eggs,sugar,soups,tea,soda,hygiene articles,napkins",Debit Card,New York
+1000000268,16-01-2023 11:25,Edward Anderson,canned beer,Mobile Payment,Atlanta
+1000000269,22-11-2020 01:11,Benjamin Barber,root vegetables,Debit Card,Dallas
+1000000270,19-11-2023 08:21,Lisa Evans,"meat,citrus fruit,berries,root vegetables,whole milk,soda",Debit Card,Dallas
+1000000271,17-12-2022 17:26,Tracey Jackson,"frankfurter,rolls/buns,bottled water,fruit/vegetable juice,hygiene articles",Credit Card,Los Angeles
+1000000272,08-12-2023 17:42,Taylor Daniels,"tropical fruit,margarine,rum",Credit Card,Houston
+1000000273,09-11-2023 07:56,Dwayne Herrera,"tropical fruit,root vegetables,herbs,whole milk,butter milk,whipped/sour cream,flour,hygiene articles",Mobile Payment,Los Angeles
+1000000274,19-10-2023 06:38,Stephanie Robinson,"citrus fruit,pip fruit,root vegetables,other vegetables,whole milk,cream cheese ,domestic eggs,brown bread,margarine,baking powder,waffles",Credit Card,Seattle
+1000000275,23-07-2022 06:10,Caleb Bailey,"hamburger meat,other vegetables,whole milk,curd,yogurt,rolls/buns,pastry,semi-finished bread,margarine,bottled water,fruit/vegetable juice",Cash,Dallas
+1000000276,27-10-2023 17:47,Eric Moore DDS,"chicken,pip fruit,other vegetables,whole milk,dessert,yogurt,whipped/sour cream,rolls/buns,pasta,soda,waffles",Cash,Chicago
+1000000277,26-09-2021 04:44,Barbara Griffin,"chicken,citrus fruit,tropical fruit,root vegetables,whole milk,frozen fish,rolls/buns",Debit Card,Miami
+1000000278,18-03-2021 10:25,Jennifer Harrington DDS,"frankfurter,citrus fruit,onions,other vegetables,whole milk,rolls/buns,sugar,soda",Debit Card,San Francisco
+1000000279,25-03-2021 23:26,Bryce Smith,canned beer,Credit Card,Los Angeles
+1000000280,01-03-2020 18:27,Suzanne Silva,"turkey,pip fruit,salad dressing,pastry",Cash,Atlanta
+1000000281,17-09-2020 21:44,David Prince,"packaged fruit/vegetables,whole milk,curd,yogurt,domestic eggs,brown bread,mustard,pickled vegetables,bottled water,misc. beverages",Mobile Payment,Dallas
+1000000282,10-01-2021 16:28,Dawn Alvarado,pasta,Mobile Payment,Seattle
+1000000283,27-05-2020 05:12,Susan Lee,"citrus fruit,tropical fruit",Credit Card,Seattle
+1000000284,21-10-2022 13:17,Pamela Adams,"sausage,whole milk,yogurt,rolls/buns,brown bread,pot plants",Mobile Payment,Los Angeles
+1000000285,08-05-2022 12:22,Jessica Shaffer,"whole milk,frozen meals,pastry,fruit/vegetable juice,waffles",Debit Card,Miami
+1000000286,30-05-2023 06:57,Mitchell Johnson,canned beer,Mobile Payment,New York
+1000000287,02-01-2023 21:20,Robert Ibarra,"citrus fruit,sugar,sauces",Mobile Payment,Boston
+1000000288,15-07-2021 13:56,Mr. Matthew Wang,liquor (appetizer),Credit Card,New York
+1000000289,12-04-2021 13:52,Michele Davis,"citrus fruit,other vegetables,rolls/buns,salty snack,shopping bags",Debit Card,Miami
+1000000290,31-05-2020 23:16,Karen Jones,sausage,Mobile Payment,Atlanta
+1000000291,29-05-2023 05:46,Kristi Sanchez,"chicken,other vegetables,whole milk,vinegar,oil,bottled water,canned beer,napkins,newspapers",Mobile Payment,San Francisco
+1000000292,12-11-2020 03:27,James Aguilar,"hamburger meat,root vegetables,other vegetables,whole milk,yogurt,whipped/sour cream,specialty cheese,flour,margarine",Cash,Houston
+1000000293,10-09-2020 04:28,Lawrence Allison,"sausage,pork,other vegetables,dessert,yogurt,oil,soda",Credit Card,Chicago
+1000000294,08-05-2021 11:46,Benjamin Nguyen,"beef,berries,root vegetables,whole milk,whipped/sour cream,abrasive cleaner",Mobile Payment,Miami
+1000000295,15-03-2020 10:32,Gina Gomez,"citrus fruit,packaged fruit/vegetables,yogurt,bottled water",Credit Card,Dallas
+1000000296,12-03-2022 19:42,Gerald Massey,"UHT-milk,coffee",Debit Card,Los Angeles
+1000000297,04-08-2020 11:17,William Willis,candy,Mobile Payment,San Francisco
+1000000298,10-02-2022 10:43,Tracy Wu,newspapers,Cash,Boston
+1000000299,23-03-2024 04:55,Michael Wallace,"beef,citrus fruit,other vegetables,yogurt",Credit Card,Atlanta
+1000000300,05-06-2021 08:46,Carolyn Harris,"sausage,rolls/buns",Mobile Payment,San Francisco
+1000000301,15-07-2023 23:55,Michele Davis,"frankfurter,beef,root vegetables,curd,dessert,yogurt,soft cheese,rolls/buns,mustard,pickled vegetables,canned beer,hygiene articles,napkins",Credit Card,Chicago
+1000000302,04-06-2020 15:28,Molly Hernandez,canned beer,Cash,Chicago
+1000000303,24-02-2021 18:47,Ashley Knight,bottled beer,Debit Card,San Francisco
+1000000304,17-12-2022 17:38,Jessica Crawford,"onions,soda,chewing gum,chocolate,newspapers",Mobile Payment,Seattle
+1000000305,13-02-2022 04:42,Yvette Bailey,"tropical fruit,packaged fruit/vegetables,cream cheese ,white bread,candy",Mobile Payment,Seattle
+1000000306,14-04-2023 07:18,Mary Miller,"bottled water,white wine",Debit Card,Los Angeles
+1000000307,10-02-2021 04:20,Ashley Turner,"beef,white bread,pastry,pasta,soap",Debit Card,Miami
+1000000308,22-06-2023 21:28,Dustin Walker,"sausage,chicken,tropical fruit,root vegetables,whole milk,yogurt,candy,abrasive cleaner,cleaner",Cash,Los Angeles
+1000000309,28-01-2023 20:59,Lynn Hopkins,hair spray,Mobile Payment,Chicago
+1000000310,18-08-2022 08:02,Taylor Cole,"chicken,whole milk,spices,long life bakery product,shopping bags",Credit Card,Dallas
+1000000311,07-01-2020 01:35,Jeffrey Wilson,"pork,citrus fruit,brown bread,pastry,sugar,cat food",Debit Card,New York
+1000000312,02-12-2020 18:12,Christopher Nichols,ice cream,Debit Card,Atlanta
+1000000313,27-12-2022 09:21,Jacob Washington,"meat,hard cheese,bottled beer",Mobile Payment,San Francisco
+1000000314,06-07-2023 12:06,Ann Gamble,"other vegetables,yogurt,brown bread,instant coffee",Debit Card,Boston
+1000000315,01-03-2024 18:10,Michael Ray,"bottled water,cake bar",Credit Card,Miami
+1000000316,24-06-2020 05:01,Karen Meyer,"tropical fruit,soda,salty snack",Credit Card,Seattle
+1000000317,03-10-2020 13:50,Candice Shelton,photo/film,Credit Card,Chicago
+1000000318,02-02-2023 02:05,Cindy Russell,"sausage,citrus fruit,yogurt,coffee,soda,canned beer,dishes",Mobile Payment,Houston
+1000000319,23-07-2022 05:13,Taylor Brady,"grapes,root vegetables",Debit Card,Boston
+1000000320,27-01-2021 05:09,Paula Turner,"domestic eggs,brown bread,photo/film",Mobile Payment,San Francisco
+1000000321,09-01-2024 11:41,Jasmine Vasquez,"rolls/buns,canned fish,canned beer",Cash,Houston
+1000000322,08-01-2023 11:51,Christopher Johnson,"tropical fruit,whole milk",Credit Card,San Francisco
+1000000323,17-04-2021 20:11,Christopher Chandler,chicken,Debit Card,Seattle
+1000000324,17-11-2021 00:42,Susan Ball,"frankfurter,other vegetables,yogurt,brown bread,bottled water",Cash,Chicago
+1000000325,11-11-2021 02:24,Bobby Warner,"berries,root vegetables,other vegetables,curd,butter milk,cream cheese ,roll products ,margarine,misc. beverages,specialty chocolate,detergent",Debit Card,Miami
+1000000326,01-07-2020 00:49,Victoria Jenkins,"margarine,hygiene articles",Mobile Payment,Chicago
+1000000327,19-04-2021 22:13,Tyler Lara,"tropical fruit,yogurt,rolls/buns,soda,shopping bags",Mobile Payment,Atlanta
+1000000328,20-05-2022 17:13,Ronald Chandler,"ham,other vegetables,whipped/sour cream,hard cheese,rolls/buns,soda,misc. beverages,chocolate,candy",Debit Card,Chicago
+1000000329,10-10-2022 04:25,Xavier Palmer,"hamburger meat,white bread,salty snack",Debit Card,Atlanta
+1000000330,05-02-2020 13:58,Lance Sims,"yogurt,mayonnaise,rolls/buns,soda,napkins",Cash,New York
+1000000331,25-06-2021 13:48,Richard Dean,"soda,specialty chocolate",Mobile Payment,New York
+1000000332,01-01-2024 08:46,Corey Scott,yogurt,Mobile Payment,Dallas
+1000000333,02-03-2021 10:44,Timothy Calderon,soda,Debit Card,Houston
+1000000334,02-02-2022 11:39,Richard Clark,bottled water,Mobile Payment,Seattle
+1000000335,16-04-2024 11:13,Adrienne Long,"sausage,meat,hamburger meat,rubbing alcohol",Debit Card,Boston
+1000000336,14-09-2021 00:26,Tanya Murphy,"citrus fruit,pip fruit,beverages,hard cheese,pet care,soda,fruit/vegetable juice,waffles",Mobile Payment,Seattle
+1000000337,19-03-2023 09:39,Traci Stevens,shopping bags,Debit Card,Houston
+1000000338,24-02-2022 22:44,Melissa Freeman,newspapers,Debit Card,Chicago
+1000000339,01-10-2020 10:24,Colleen Mata,"frankfurter,other vegetables,whole milk,curd,frozen potato products,zwieback,specialty bar,dish cleaner",Credit Card,Chicago
+1000000340,05-02-2022 19:17,Justin Rodriguez,"sausage,citrus fruit,whole milk,canned beer",Mobile Payment,Dallas
+1000000341,07-03-2024 20:33,Daniel Thomas,"frankfurter,rolls/buns",Credit Card,Miami
+1000000342,30-04-2020 08:47,Susan Martin,"salt,salty snack,cookware",Mobile Payment,Houston
+1000000343,14-12-2020 16:57,Monica Howard,oil,Cash,San Francisco
+1000000344,01-10-2020 12:19,Lauren Perry,"curd,beverages,cream cheese ,rolls/buns,pastry,soda,cake bar,chewing gum",Credit Card,San Francisco
+1000000345,31-07-2021 00:30,Cynthia Peters,"other vegetables,butter,specialty chocolate",Mobile Payment,Houston
+1000000346,23-03-2020 08:45,Andrew Shelton,citrus fruit,Debit Card,Miami
+1000000347,11-06-2020 22:09,Richard Page,"frankfurter,whole milk,butter milk",Mobile Payment,Atlanta
+1000000348,12-11-2020 09:56,Gregory George,"root vegetables,whole milk,butter,processed cheese,mayonnaise,salty snack",Debit Card,Miami
+1000000349,18-05-2022 20:42,Joe Price,"tropical fruit,whole milk,frozen meals,bottled beer",Cash,Boston
+1000000350,05-03-2024 14:03,Marissa Cisneros,"beef,hamburger meat,pip fruit",Credit Card,Miami
+1000000351,13-12-2021 16:53,Debbie Burns,"berries,whipped/sour cream,cereals,waffles,shopping bags",Mobile Payment,Boston
+1000000352,29-09-2021 10:27,William Cole,canned beer,Debit Card,Miami
+1000000353,18-03-2024 04:37,David Gallagher,"whipped/sour cream,canned beer,red/blush wine",Cash,Boston
+1000000354,19-03-2022 18:56,Melissa Mullins,"root vegetables,domestic eggs,margarine,chocolate marshmallow,candy",Credit Card,Boston
+1000000355,07-12-2020 08:07,James Smith,"whole milk,soda",Cash,San Francisco
+1000000356,02-10-2021 00:39,James Harris,beef,Mobile Payment,Dallas
+1000000357,02-02-2022 02:18,Melinda Daniels,frozen vegetables,Credit Card,Chicago
+1000000358,08-03-2022 03:02,Barbara Shepard,"rolls/buns,bottled beer",Mobile Payment,Atlanta
+1000000359,07-12-2023 14:00,Tyler Lambert,"whole milk,hygiene articles",Mobile Payment,Boston
+1000000360,03-12-2023 00:49,Amanda Sanchez,whole milk,Cash,Chicago
+1000000361,04-10-2023 18:32,Kelly Tucker,"citrus fruit,whole milk,curd,soft cheese",Mobile Payment,San Francisco
+1000000362,22-08-2020 18:00,Tiffany Wilson,"pastry,fruit/vegetable juice",Cash,Chicago
+1000000363,26-03-2023 06:38,Seth Johnson,"frankfurter,sausage,pork,pip fruit,butter,processed cheese,white bread,brown bread",Credit Card,Seattle
+1000000364,21-03-2020 19:13,Julie Perez,"tropical fruit,root vegetables,whole milk,whipped/sour cream,domestic eggs",Debit Card,Seattle
+1000000365,07-12-2021 23:42,Dustin Taylor,"frankfurter,sausage,root vegetables,yogurt,whipped/sour cream,pastry,napkins",Mobile Payment,Boston
+1000000366,23-04-2021 07:59,Julia Ramirez,"berries,root vegetables,other vegetables,packaged fruit/vegetables,whole milk,curd,curd cheese,cat food,specialty bar,detergent",Mobile Payment,Houston
+1000000367,03-04-2023 05:06,Richard Benjamin,"rolls/buns,brown bread,pastry,coffee,bottled beer",Cash,San Francisco
+1000000368,21-05-2021 13:54,Richard Hamilton,"root vegetables,packaged fruit/vegetables,curd,dessert,frozen vegetables,specialty fat,coffee",Credit Card,New York
+1000000369,31-08-2022 08:17,Deborah Reid,yogurt,Debit Card,Miami
+1000000370,19-11-2023 20:51,Rachel Brown,"other vegetables,bottled water",Cash,Chicago
+1000000371,18-08-2020 04:17,Brett Smith,"berries,white bread",Debit Card,Chicago
+1000000372,28-06-2021 15:03,Austin Hughes,"berries,coffee",Cash,Boston
+1000000373,23-12-2020 04:04,Mark Smith,"other vegetables,butter milk,frozen meals,bottled water",Debit Card,Houston
+1000000374,02-11-2022 00:41,Diana Giles,"rolls/buns,newspapers",Credit Card,Miami
+1000000375,22-01-2023 00:34,Cassandra Lloyd,"ham,citrus fruit,whole milk,whipped/sour cream,rolls/buns,pastry,waffles,hygiene articles",Cash,San Francisco
+1000000376,01-08-2021 20:48,Laura Phillips,"whole milk,frozen dessert,salty snack,napkins",Mobile Payment,San Francisco
+1000000377,02-07-2023 04:52,Derrick Chen,"tropical fruit,butter milk,rolls/buns,bottled water",Credit Card,Los Angeles
+1000000378,26-06-2020 18:40,Patricia Bernard,bottled water,Credit Card,Atlanta
+1000000379,12-01-2023 02:37,Rebecca Martinez,"butter milk,yogurt",Mobile Payment,Seattle
+1000000380,20-04-2021 20:48,Victor Stein,newspapers,Mobile Payment,Los Angeles
+1000000381,17-03-2020 06:46,Thomas Mason,coffee,Credit Card,Boston
+1000000382,10-10-2020 15:23,Carla Thomas,"bottled beer,liquor",Debit Card,Boston
+1000000383,18-12-2021 21:20,Bradley Smith,"onions,butter,whipped/sour cream,hard cheese,frozen vegetables,pasta,specialty fat,syrup,candy,napkins,cling film/bags",Credit Card,Seattle
+1000000384,30-06-2020 18:24,Joshua Chase,"hamburger meat,hard cheese,frozen meals,pasta,dog food,salty snack,shopping bags",Credit Card,Houston
+1000000385,08-07-2023 14:17,Cheryl Olsen,"sausage,liver loaf,other vegetables,cream cheese ,pastry,soap,shopping bags",Cash,Boston
+1000000386,03-04-2021 23:52,Benjamin Cabrera,"hard cheese,pastry,napkins",Debit Card,Dallas
+1000000387,18-05-2021 22:19,Joseph Nichols,"sausage,tropical fruit,condensed milk,rolls/buns",Debit Card,Chicago
+1000000388,09-07-2023 10:26,Meghan Johnson,hamburger meat,Cash,Houston
+1000000389,14-09-2020 01:48,Holly Mora,"onions,whole milk,beverages,frozen dessert",Debit Card,Miami
+1000000390,14-03-2024 19:01,Michael Smith,coffee,Debit Card,New York
+1000000391,13-01-2024 17:11,Paul York,shopping bags,Debit Card,San Francisco
+1000000392,11-08-2022 05:30,Justin Garza,"yogurt,rolls/buns,pastry,bottled water,soda,shopping bags",Mobile Payment,San Francisco
+1000000393,27-05-2023 18:18,James Jones,soda,Mobile Payment,Chicago
+1000000394,06-03-2022 15:18,Randall Davis,sliced cheese,Cash,Boston
+1000000395,28-08-2022 04:37,Julie Hopkins,"sausage,whole milk,coffee",Mobile Payment,San Francisco
+1000000396,30-10-2020 09:20,Zachary Compton,"yogurt,chocolate",Debit Card,Seattle
+1000000397,19-02-2021 11:51,Michelle White,"domestic eggs,rolls/buns,dish cleaner,hygiene articles",Mobile Payment,Atlanta
+1000000398,05-02-2023 15:44,Jennifer Owens,whole milk,Debit Card,Dallas
+1000000399,25-08-2022 15:48,James Howe MD,"meat,other vegetables,whole milk,whipped/sour cream",Cash,Dallas
+1000000400,20-03-2021 15:08,Kimberly Gomez,"dish cleaner,bathroom cleaner,hygiene articles,napkins",Credit Card,Houston
+1000000401,06-09-2020 06:05,Kathy Ross,"other vegetables,red/blush wine",Credit Card,San Francisco
+1000000402,15-08-2020 21:47,Ariel Howell,"whole milk,butter milk,yogurt,sliced cheese,rolls/buns,sweet spreads,coffee,fruit/vegetable juice,long life bakery product,shopping bags",Credit Card,Chicago
+1000000403,05-04-2020 04:08,Lisa Smith,"other vegetables,whole milk,rolls/buns,Instant food products",Credit Card,Houston
+1000000404,28-04-2021 13:09,Randy Nelson,"tropical fruit,other vegetables",Mobile Payment,Los Angeles
+1000000405,14-09-2022 07:20,Joseph Miller,"baking powder,bottled water,salty snack,chewing gum",Cash,Houston
+1000000406,17-09-2022 14:28,Paul Hart,specialty bar,Debit Card,Miami
+1000000407,22-09-2020 11:18,Megan Hardin,ice cream,Debit Card,Houston
+1000000408,20-11-2020 17:02,Jennifer Lee,"frankfurter,yogurt",Debit Card,Chicago
+1000000409,14-07-2021 06:54,Matthew Hall,canned beer,Debit Card,Dallas
+1000000410,24-04-2020 17:56,Thomas Green,bottled water,Debit Card,New York
+1000000411,18-07-2020 18:11,George Ruiz,"other vegetables,whole milk,rolls/buns,margarine,bottled water,bottled beer",Mobile Payment,New York
+1000000412,12-05-2021 01:27,Cameron Garner,"citrus fruit,tropical fruit,onions,other vegetables,shopping bags",Credit Card,Los Angeles
+1000000413,10-02-2023 21:43,Paul Clarke,"sausage,ham,hamburger meat,whole milk,soda,softener,newspapers",Debit Card,Boston
+1000000414,02-04-2024 07:14,William Randolph,"domestic eggs,rolls/buns,specialty bar,napkins",Credit Card,Seattle
+1000000415,16-11-2021 05:52,Kevin Morris,"pork,citrus fruit,tropical fruit,root vegetables,other vegetables,curd,hygiene articles",Debit Card,Chicago
+1000000416,14-07-2023 11:48,Andrew Smith,"specialty cheese,frozen vegetables,coffee,soda,fruit/vegetable juice,salty snack",Cash,Houston
+1000000417,26-12-2020 11:06,Whitney Mercado,"pork,citrus fruit,pip fruit,yogurt,fruit/vegetable juice,sparkling wine",Credit Card,San Francisco
+1000000418,29-10-2021 22:49,Dennis Cruz,"beef,berries,whipped/sour cream,domestic eggs,rolls/buns",Cash,Seattle
+1000000419,19-08-2023 08:20,Kristina Mcguire,"other vegetables,pet care",Credit Card,Houston
+1000000420,24-06-2023 15:43,Maria Ochoa,"chicken,yogurt,sliced cheese,rolls/buns,chewing gum,dishes",Mobile Payment,Houston
+1000000421,29-09-2023 15:34,Jeffrey Thomas,"soda,chewing gum",Debit Card,Boston
+1000000422,08-06-2021 00:59,Melissa Wallace,whole milk,Cash,Dallas
+1000000423,18-03-2023 05:21,Dawn Barnes,rolls/buns,Debit Card,Dallas
+1000000424,01-06-2020 21:09,Mr. Jimmy Martin MD,bottled beer,Mobile Payment,Dallas
+1000000425,11-12-2023 23:42,Brian Turner,"root vegetables,pastry,bottled water,male cosmetics",Mobile Payment,Dallas
+1000000426,30-08-2020 01:19,Hannah Moss,pastry,Debit Card,Atlanta
+1000000427,05-12-2022 07:09,Jessica Crawford,"berries,pet care,cake bar,shopping bags",Debit Card,Boston
+1000000428,17-04-2022 04:15,Joseph Barrett,"citrus fruit,tropical fruit,root vegetables,yogurt,canned vegetables,bottled water,soda,softener",Cash,Los Angeles
+1000000429,30-10-2022 13:28,Robert Williams,"whole milk,oil,canned fruit,fruit/vegetable juice",Debit Card,Boston
+1000000430,20-01-2020 23:29,Robin King,"soda,misc. beverages",Debit Card,Chicago
+1000000431,24-05-2023 06:51,Michael Morris,"bottled water,soda",Cash,New York
+1000000432,25-04-2023 00:06,Mrs. Jessica Pennington,"tropical fruit,other vegetables,rolls/buns",Mobile Payment,Los Angeles
+1000000433,24-09-2023 01:27,Brian Williams,salty snack,Cash,Atlanta
+1000000434,08-03-2023 10:19,Tanya Jones,"bottled water,canned beer",Cash,Boston
+1000000435,06-12-2020 06:15,Greg Chandler,chocolate,Mobile Payment,Miami
+1000000436,21-09-2021 12:32,Yvonne Garcia,"citrus fruit,UHT-milk,cream cheese ,frozen vegetables",Debit Card,Miami
+1000000437,06-01-2020 10:44,Tyler Clark,"bottled water,canned beer,male cosmetics",Cash,Chicago
+1000000438,15-06-2020 08:10,Carla Arias,"onions,other vegetables,pastry,bottled water,soda,napkins",Mobile Payment,Chicago
+1000000439,10-12-2023 03:49,Matthew Taylor,"dessert,oil,cat food,soda",Mobile Payment,Atlanta
+1000000440,01-05-2022 11:06,Angela Higgins,"beef,other vegetables,whole milk,frozen potato products,rolls/buns,oil,margarine,coffee,dental care,hygiene articles,newspapers",Debit Card,San Francisco
+1000000441,28-06-2022 16:01,Erin Giles,"rolls/buns,zwieback,bottled water,misc. beverages,bottled beer,canned beer,brandy",Mobile Payment,Atlanta
+1000000442,05-12-2021 20:27,Michael Huffman,"beef,tropical fruit,root vegetables,onions,other vegetables,instant coffee,soda",Credit Card,Houston
+1000000443,08-04-2024 09:42,Paul Walls,soda,Cash,Chicago
+1000000444,11-02-2020 17:40,James Henderson,"coffee,hygiene articles",Credit Card,Boston
+1000000445,01-06-2022 01:52,Melanie Page,"rolls/buns,brown bread,bottled water",Cash,Atlanta
+1000000446,30-08-2023 21:47,Kenneth Cowan,"pork,beef,hamburger meat,other vegetables,whole milk,frozen vegetables,rolls/buns,margarine,shopping bags",Cash,Atlanta
+1000000447,02-12-2021 11:59,Crystal Lewis,"soda,canned beer,liquor (appetizer),hygiene articles,napkins,newspapers",Debit Card,Houston
+1000000448,16-04-2023 22:11,Peter Berg,"sausage,ham,other vegetables,ice cream,white bread",Debit Card,Dallas
+1000000449,15-05-2023 16:05,Deborah Richardson,"beef,root vegetables,other vegetables,rolls/buns,sugar",Mobile Payment,Houston
+1000000450,13-03-2023 18:47,Diane Ford,"whole milk,butter,bottled water,bottled beer",Cash,Dallas
+1000000451,25-03-2023 14:23,Stephanie Brown,"pork,ice cream,hygiene articles,house keeping products",Credit Card,Los Angeles
+1000000452,27-01-2023 19:18,Wesley Santos,"berries,packaged fruit/vegetables,whole milk,ice cream,fruit/vegetable juice,salty snack,specialty bar",Credit Card,Atlanta
+1000000453,10-03-2020 12:27,Erik Butler,"sausage,other vegetables,curd,yogurt,whipped/sour cream,frozen vegetables,rolls/buns,roll products ",Cash,Los Angeles
+1000000454,27-10-2020 22:31,Andrea Weeks,"bottled water,misc. beverages,cling film/bags",Mobile Payment,New York
+1000000455,21-02-2023 10:17,Christopher Small,"tropical fruit,other vegetables,packaged fruit/vegetables,whole milk,hard cheese,frozen dessert,rice,bottled water",Debit Card,Boston
+1000000456,19-12-2022 19:52,Hannah Baird,"herbs,bottled water",Credit Card,Atlanta
+1000000457,22-04-2024 02:54,Rebecca Velazquez,"yogurt,rolls/buns",Credit Card,Los Angeles
+1000000458,20-01-2023 20:08,Crystal Jones,Instant food products,Mobile Payment,San Francisco
+1000000459,21-05-2020 08:59,Bradley Lawrence,specialty chocolate,Credit Card,New York
+1000000460,21-02-2022 00:37,Heather Hogan,coffee,Mobile Payment,Boston
+1000000461,30-12-2022 07:39,Joseph Marquez,"bottled beer,liquor",Credit Card,Los Angeles
+1000000462,18-01-2020 00:32,Tyler Nelson,"beef,root vegetables",Debit Card,Dallas
+1000000463,21-03-2021 15:51,Todd Vaughn,"whole milk,honey,waffles",Debit Card,Los Angeles
+1000000464,27-02-2020 21:17,Jose Hale,"frankfurter,rolls/buns,pastry,snack products,specialty bar",Debit Card,Chicago
+1000000465,15-01-2022 16:04,Collin Nash,"frankfurter,sausage,liver loaf,root vegetables,curd,frozen vegetables,rolls/buns,semi-finished bread,hygiene articles,photo/film",Debit Card,Seattle
+1000000466,15-01-2020 12:18,Jeff Fowler,"other vegetables,whole milk,cream cheese ",Credit Card,Chicago
+1000000467,01-03-2022 05:12,Benjamin Lee,"frankfurter,root vegetables,pickled vegetables,soda,seasonal products",Cash,Los Angeles
+1000000468,07-05-2024 02:26,Michael Padilla,"whole milk,rolls/buns,newspapers",Credit Card,Los Angeles
+1000000469,26-04-2024 06:29,Stephanie Jackson,"frankfurter,margarine,dental care",Credit Card,New York
+1000000470,05-01-2021 16:52,Thomas Mcintyre,"other vegetables,salty snack",Debit Card,Chicago
+1000000471,28-04-2023 21:21,Robert Davis,"bottled water,shopping bags",Debit Card,Dallas
+1000000472,04-12-2023 13:11,Marc Decker,"pork,onions,whole milk,butter,rolls/buns,pastry,rum,hygiene articles",Credit Card,Dallas
+1000000473,10-03-2024 05:53,Shawn Morris,bottled water,Credit Card,Boston
+1000000474,07-03-2020 21:42,Denise Vaughan,"other vegetables,whipped/sour cream,specialty cheese,domestic eggs",Debit Card,Miami
+1000000475,06-09-2021 13:41,Sarah Harris,"hamburger meat,whole milk,curd,pasta,canned beer",Mobile Payment,Atlanta
+1000000476,24-03-2022 23:31,Brian Cole,"hamburger meat,citrus fruit,other vegetables",Mobile Payment,Dallas
+1000000477,04-04-2021 16:24,Scott Jenkins,shopping bags,Cash,Seattle
+1000000478,23-01-2023 04:27,John Goodwin,"whole milk,cream cheese ,soda,fruit/vegetable juice",Debit Card,Chicago
+1000000479,12-11-2021 10:44,Ashley Ortiz,ice cream,Cash,Chicago
+1000000480,27-11-2023 11:11,Cynthia Harper,"pastry,bottled water",Credit Card,Seattle
+1000000481,26-10-2020 15:48,John Taylor DDS,"ham,pip fruit,whole milk,curd,dessert,butter milk,whipped/sour cream,sliced cheese,cream cheese ,white bread,coffee,long life bakery product,chocolate,baby cosmetics",Credit Card,San Francisco
+1000000482,01-07-2020 07:14,Jennifer West,"frankfurter,soda",Credit Card,Los Angeles
+1000000483,16-05-2022 02:20,Toni Sanchez,"sausage,turkey,beef,root vegetables,domestic eggs,rolls/buns,flour,rice,organic products,misc. beverages,napkins",Debit Card,Dallas
+1000000484,05-04-2023 04:25,Ronald Mills,bottled beer,Mobile Payment,Atlanta
+1000000485,10-10-2023 08:13,Kevin Underwood,"bottled water,bottled beer,napkins",Cash,Dallas
+1000000486,18-01-2023 09:53,Jason Acosta,"meat,other vegetables,hard cheese,frozen meals,bottled water,soda",Mobile Payment,Chicago
+1000000487,19-06-2020 01:27,Tracy Downs,"dessert,candy",Debit Card,San Francisco
+1000000488,13-03-2021 05:36,Tracy Kerr,"other vegetables,packaged fruit/vegetables,UHT-milk,bottled water",Cash,Houston
+1000000489,11-12-2023 23:23,Michelle Moreno,"beverages,rolls/buns,soda",Mobile Payment,New York
+1000000490,05-01-2024 12:29,Douglas Schultz Jr.,"ham,mustard,canned fish",Credit Card,Seattle
+1000000491,25-02-2022 02:46,Travis Brooks,specialty bar,Credit Card,Atlanta
+1000000492,10-12-2021 22:09,Ashley Schultz,"brown bread,soda,salty snack,shopping bags",Cash,Miami
+1000000493,07-10-2021 13:59,James Hubbard,"whole milk,cream cheese ,coffee",Credit Card,Los Angeles
+1000000494,05-04-2024 08:44,Barbara Mendez MD,"rolls/buns,pastry,red/blush wine",Credit Card,Los Angeles
+1000000495,07-01-2024 02:37,Jonathan Spears,"bottled beer,nut snack",Cash,San Francisco
+1000000496,27-05-2023 14:08,Tiffany Clark,"pet care,bottled beer",Debit Card,San Francisco
+1000000497,24-11-2020 01:16,Michelle Acosta,"citrus fruit,other vegetables,soda",Credit Card,Miami
+1000000498,10-07-2023 05:18,Erica Morales,"pork,other vegetables,frozen vegetables,hygiene articles",Cash,Dallas
+1000000499,18-11-2023 04:49,Heather Peterson,"other vegetables,shopping bags",Cash,Seattle
+1000000500,28-03-2022 05:06,Terri May,"white wine,detergent",Mobile Payment,Atlanta
+1000000501,22-12-2020 14:40,Lisa Cooper,"whole milk,dessert,bottled water",Debit Card,New York
+1000000502,20-03-2020 11:40,Amanda Nelson,"pip fruit,white wine,shopping bags",Mobile Payment,San Francisco
+1000000503,07-09-2023 06:59,Matthew Ruiz,"sugar,soda,bottled beer",Debit Card,Dallas
+1000000504,08-09-2021 06:39,Kimberly Gallegos,"tropical fruit,pip fruit,rolls/buns,coffee,fruit/vegetable juice,candy",Mobile Payment,Miami
+1000000505,27-08-2020 18:56,Brittany Griffin,"root vegetables,cream cheese ,spread cheese,frozen dessert,white bread,bottled water,soda,misc. beverages,fruit/vegetable juice,bottled beer",Cash,Boston
+1000000506,17-05-2024 15:59,Bryan Sanford,"soda,misc. beverages",Mobile Payment,New York
+1000000507,12-05-2020 11:11,Robert Robertson,"whole milk,curd",Cash,Los Angeles
+1000000508,12-01-2020 14:07,Kristin Murray,"tropical fruit,other vegetables,yogurt,bottled water,male cosmetics",Cash,Houston
+1000000509,26-07-2020 18:02,Kimberly Torres,"white bread,brown bread",Debit Card,Houston
+1000000510,28-08-2020 05:32,Dr. Shawn Gonzalez,"brown bread,sugar,hygiene articles",Cash,Chicago
+1000000511,10-07-2023 11:37,Jonathan Waller,"tropical fruit,root vegetables,coffee,bottled water,red/blush wine,candy,house keeping products,shopping bags",Cash,Houston
+1000000512,12-11-2020 07:12,Valerie Wilson,domestic eggs,Mobile Payment,Atlanta
+1000000513,19-03-2022 02:49,David Shelton,"coffee,detergent,hygiene articles,photo/film",Credit Card,Chicago
+1000000514,12-04-2022 16:40,Jody Martin,soda,Debit Card,Atlanta
+1000000515,11-02-2021 18:52,Brooke Larson,whole milk,Mobile Payment,Seattle
+1000000516,03-08-2020 17:15,Kristin Saunders,bottled beer,Mobile Payment,San Francisco
+1000000517,15-06-2023 03:55,Jacob Kennedy,"pork,beef,berries,packaged fruit/vegetables,whole milk,mayonnaise,frozen fish,frozen potato products,oil,mustard,cat food,coffee,soda,chocolate,dish cleaner,napkins,newspapers",Cash,Dallas
+1000000518,17-09-2023 07:32,Tracy Pham,"other vegetables,yogurt",Debit Card,New York
+1000000519,12-01-2022 07:32,Vickie Callahan,"yogurt,bottled water,dishes",Credit Card,Dallas
+1000000520,19-01-2024 17:56,Natalie Armstrong,sparkling wine,Debit Card,San Francisco
+1000000521,07-04-2024 15:50,Angelica Davis,"bottled water,candy",Debit Card,San Francisco
+1000000522,28-07-2021 05:31,Christian Davidson,"citrus fruit,berries,other vegetables,butter milk,sugar,fruit/vegetable juice,hygiene articles",Credit Card,Seattle
+1000000523,08-03-2024 13:36,Seth Woodward,"hamburger meat,root vegetables,other vegetables,whole milk,rolls/buns",Credit Card,Boston
+1000000524,24-10-2022 11:04,Jordan Kennedy,"packaged fruit/vegetables,seasonal products",Mobile Payment,Los Angeles
+1000000525,03-01-2023 02:42,Jennifer Williams,"other vegetables,margarine",Cash,Boston
+1000000526,29-12-2020 22:10,Brenda Martinez,soda,Mobile Payment,Los Angeles
+1000000527,26-08-2022 14:12,Lori Kane,"whole milk,yogurt,frozen potato products,margarine,bottled water,fruit/vegetable juice,salty snack",Credit Card,San Francisco
+1000000528,07-03-2021 03:14,Joseph Chavez,"herbs,yogurt",Mobile Payment,Houston
+1000000529,17-11-2021 21:00,Tonya Villarreal,"citrus fruit,spread cheese,rolls/buns,soda",Debit Card,Dallas
+1000000530,17-07-2021 00:00,Anthony Hawkins,misc. beverages,Debit Card,Dallas
+1000000531,14-08-2020 11:18,Alyssa Ramos,female sanitary products,Mobile Payment,Los Angeles
+1000000532,16-01-2021 10:35,Jason Lee,soda,Credit Card,San Francisco
+1000000533,27-01-2023 06:11,Alicia Mercer,"tropical fruit,whole milk,beverages,white bread,pasta,shopping bags",Credit Card,Miami
+1000000534,17-10-2020 16:48,Aaron Reed,"soda,female sanitary products",Mobile Payment,Boston
+1000000535,03-02-2023 17:14,Garrett Miles,"white bread,bottled water,soda,waffles",Mobile Payment,Los Angeles
+1000000536,16-02-2024 06:01,Christopher Clark,"coffee,chewing gum,chocolate marshmallow",Mobile Payment,Los Angeles
+1000000537,31-08-2021 08:21,Andrew Newman,"tropical fruit,root vegetables,whole milk,frozen vegetables,honey,baking powder,coffee,red/blush wine,chocolate marshmallow",Mobile Payment,New York
+1000000538,11-09-2022 20:25,Dana Miller,"pork,pip fruit,whole milk,butter milk",Debit Card,New York
+1000000539,17-01-2022 06:26,Adam Rubio,"citrus fruit,bottled water",Cash,Miami
+1000000540,02-03-2021 08:42,Samantha Poole,frankfurter,Debit Card,New York
+1000000541,12-04-2024 14:28,Margaret Velez,"frankfurter,rolls/buns",Mobile Payment,Miami
+1000000542,18-07-2020 21:04,Christian Tate,"frankfurter,tropical fruit,pip fruit,curd,UHT-milk,hard cheese,domestic eggs,rolls/buns,hygiene articles,napkins,shopping bags",Debit Card,Miami
+1000000543,06-04-2020 20:38,Matthew Wood,other vegetables,Mobile Payment,Atlanta
+1000000544,10-01-2020 14:21,Andrea Cruz,"yogurt,fruit/vegetable juice,newspapers",Credit Card,Atlanta
+1000000545,10-02-2024 23:49,Dawn Dawson,"sausage,whole milk,yogurt,brown bread,cereals,bottled water,soda",Credit Card,Atlanta
+1000000546,24-09-2021 11:04,John Dickerson MD,whole milk,Credit Card,Chicago
+1000000547,30-05-2023 21:14,Ryan Stewart,"pip fruit,whole milk,curd,pastry,bottled water",Credit Card,Seattle
+1000000548,29-03-2023 18:28,Benjamin Benson,whole milk,Cash,Atlanta
+1000000549,23-05-2023 20:43,Karen Bond,"root vegetables,other vegetables",Debit Card,San Francisco
+1000000550,08-12-2023 03:37,Karen Hernandez,"onions,fruit/vegetable juice",Credit Card,Seattle
+1000000551,23-07-2021 22:56,Carolyn Owens,specialty chocolate,Credit Card,Miami
+1000000552,04-02-2024 11:40,Gregory Baker,"hamburger meat,domestic eggs",Debit Card,Atlanta
+1000000553,02-02-2020 17:30,Elizabeth Wagner,photo/film,Credit Card,Seattle
+1000000554,12-02-2020 23:46,Eric Smith,"rolls/buns,soda,snack products,newspapers",Credit Card,Chicago
+1000000555,02-10-2023 23:12,Rodney Mcgee,canned beer,Credit Card,Atlanta
+1000000556,09-02-2024 18:25,Nicole Gaines,canned beer,Credit Card,Houston
+1000000557,13-06-2022 22:34,Sandra Marshall,"other vegetables,curd,frozen meals,frozen potato products,soda,bottled beer,kitchen towels,candles",Cash,San Francisco
+1000000558,12-11-2021 14:50,Kimberly Anderson,canned beer,Credit Card,Miami
+1000000559,16-12-2021 16:50,Jennifer Garcia,"curd,whipped/sour cream,rolls/buns,zwieback,spices",Cash,San Francisco
+1000000560,16-03-2021 23:53,Rachel Garcia,"butter,fruit/vegetable juice,newspapers",Cash,Dallas
+1000000561,05-05-2020 15:41,Kathryn White,"other vegetables,whole milk,yogurt,domestic eggs,bottled water,soda",Mobile Payment,New York
+1000000562,10-05-2024 14:54,Christina Perez,whole milk,Mobile Payment,Atlanta
+1000000563,02-09-2020 12:06,Mark Morales,"beef,tropical fruit,herbs,whole milk,curd,yogurt,whipped/sour cream,sliced cheese",Credit Card,Boston
+1000000564,29-12-2021 17:42,Vickie Brooks,"sausage,rolls/buns",Mobile Payment,Dallas
+1000000565,21-12-2020 06:59,David Montoya,soda,Cash,Houston
+1000000566,13-04-2020 05:33,Logan Adams,"fruit/vegetable juice,long life bakery product",Mobile Payment,Miami
+1000000567,21-04-2024 03:45,Nicole Jones,"rolls/buns,coffee,long life bakery product,detergent,shopping bags",Cash,Atlanta
+1000000568,04-03-2021 05:17,Steven Robinson,"pip fruit,whole milk,bottled water,candy",Cash,Dallas
+1000000569,26-04-2023 00:12,Maureen Pace,"frozen vegetables,bottled beer,liquor (appetizer),chewing gum,napkins,newspapers",Mobile Payment,Dallas
+1000000570,24-02-2024 01:17,Kristopher Cook,beverages,Mobile Payment,Seattle
+1000000571,12-07-2023 14:15,Donald Harris,"hamburger meat,root vegetables,other vegetables,domestic eggs,roll products ,oil,margarine,hygiene articles",Credit Card,Dallas
+1000000572,10-09-2021 07:35,Rachael Sanford,"root vegetables,other vegetables,whole milk,yogurt,fruit/vegetable juice,white wine",Credit Card,Chicago
+1000000573,15-05-2020 21:25,Jordan Spencer,canned beer,Debit Card,Seattle
+1000000574,27-08-2022 21:05,Joseph Payne,"frozen vegetables,bottled beer",Cash,New York
+1000000575,07-04-2021 03:33,Jeffrey May,canned beer,Mobile Payment,Los Angeles
+1000000576,19-05-2020 08:57,Catherine Dalton,newspapers,Credit Card,Boston
+1000000577,21-10-2022 18:55,Christopher Smith,rolls/buns,Debit Card,Los Angeles
+1000000578,13-09-2023 10:56,Cheryl Griffin,"hamburger meat,UHT-milk,salty snack",Mobile Payment,Chicago
+1000000579,21-11-2022 11:00,Jerry Berg,"pip fruit,whole milk,curd,rum",Credit Card,San Francisco
+1000000580,06-04-2020 00:31,Anthony Cervantes,canned beer,Credit Card,Boston
+1000000581,22-03-2024 13:08,Julia Ray,"grapes,root vegetables,frozen vegetables,domestic eggs,white wine",Debit Card,Seattle
+1000000582,13-05-2023 17:19,Ashley Benton,"root vegetables,packaged fruit/vegetables,butter,whipped/sour cream,rolls/buns",Debit Card,Los Angeles
+1000000583,01-06-2022 15:58,Jessica Lopez,"citrus fruit,frozen vegetables,rolls/buns,canned beer,salty snack",Cash,Seattle
+1000000584,06-05-2023 02:53,Ruth Garcia,"cling film/bags,pot plants",Cash,Houston
+1000000585,21-05-2021 17:51,Jesse Floyd,"frankfurter,whole milk,rolls/buns,margarine,baking powder,bottled beer",Mobile Payment,Boston
+1000000586,19-05-2023 10:12,Mary Perez,"whole milk,red/blush wine",Credit Card,Atlanta
+1000000587,29-02-2020 07:40,Douglas Gonzalez,"pork,tropical fruit,whole milk,curd,yogurt,hard cheese,frozen meals,frozen dessert,domestic eggs,cereals,baking powder,fruit/vegetable juice,soap",Credit Card,Chicago
+1000000588,03-09-2021 14:16,Sherri Graves,"chicken,pastry",Debit Card,Seattle
+1000000589,03-03-2022 15:21,David Marks,"sausage,dish cleaner,dishes",Credit Card,Houston
+1000000590,24-04-2021 09:24,Kevin Boone,specialty bar,Debit Card,Seattle
+1000000591,04-02-2021 01:10,Melissa Freeman,"whipped/sour cream,pastry,specialty bar",Debit Card,Dallas
+1000000592,02-03-2021 02:32,Jerry Garrett,"root vegetables,brown bread",Debit Card,Dallas
+1000000593,28-06-2022 22:20,Kimberly Young,"rolls/buns,soda",Cash,San Francisco
+1000000594,03-02-2020 06:21,Jenna Robinson,"other vegetables,bottled beer,red/blush wine",Cash,San Francisco
+1000000595,18-10-2021 14:43,Craig Hall,"citrus fruit,tropical fruit,berries,root vegetables,other vegetables,whole milk,butter,bottled water,rubbing alcohol,hygiene articles,napkins",Credit Card,New York
+1000000596,21-08-2022 10:33,Amanda Blevins,"whole milk,processed cheese,brown bread,pastry,soda",Mobile Payment,Chicago
+1000000597,01-02-2020 11:54,Sarah Aguirre,"frankfurter,sausage,tropical fruit,root vegetables,whole milk,yogurt,rolls/buns,pastry,candy",Cash,Dallas
+1000000598,29-06-2023 11:14,Richard Randolph,"coffee,long life bakery product",Cash,Miami
+1000000599,13-08-2022 03:33,Luis Richmond,"ham,rolls/buns,white wine",Credit Card,Boston
+1000000600,20-02-2021 11:34,Kim Campbell,canned beer,Cash,Dallas
+1000000601,30-01-2021 23:01,Jack Mitchell,canned beer,Debit Card,Dallas
+1000000602,19-09-2021 20:49,Jose Knight,canned beer,Mobile Payment,Los Angeles
+1000000603,30-03-2020 12:07,Aaron Rasmussen,"pip fruit,whole milk,canned fish",Cash,Atlanta
+1000000604,06-11-2020 18:09,Tracy Morris,"pork,pip fruit,other vegetables,whole milk,curd,white bread,sugar,bottled water,soda",Cash,Boston
+1000000605,27-10-2022 10:21,Richard Conley,soap,Debit Card,Dallas
+1000000606,05-09-2022 15:08,Michael Johnson,"pip fruit,butter,frozen meals,pasta,bottled water",Mobile Payment,Houston
+1000000607,20-08-2023 19:41,Juan Graham,"beef,hamburger meat,citrus fruit,whole milk,mustard,soap",Mobile Payment,New York
+1000000608,08-11-2021 16:50,Timothy White,"sausage,meat,other vegetables,whole milk,yogurt,rolls/buns,soda,bottled beer,chocolate,newspapers",Mobile Payment,Los Angeles
+1000000609,26-03-2023 05:50,Martin Foster,frozen chicken,Credit Card,Miami
+1000000610,03-02-2021 14:02,Benjamin Weaver,soda,Debit Card,New York
+1000000611,18-10-2023 10:48,Christopher Cooper,"tropical fruit,curd,yogurt,rolls/buns,brown bread,bottled water,bottled beer,seasonal products",Debit Card,San Francisco
+1000000612,08-03-2022 12:48,Christopher Baker,other vegetables,Debit Card,Chicago
+1000000613,31-03-2022 23:02,Kevin Reid,"beef,citrus fruit,curd,rolls/buns,oil,margarine,specialty bar,detergent,newspapers",Debit Card,Miami
+1000000614,07-04-2024 16:30,Fred Velez,"meat,pork,beef,citrus fruit,root vegetables,other vegetables,whole milk,pickled vegetables",Debit Card,Houston
+1000000615,05-12-2022 00:51,Matthew Moran,"meat,hamburger meat,root vegetables,packaged fruit/vegetables,whole milk,butter,newspapers",Credit Card,San Francisco
+1000000616,14-04-2021 22:36,Adam Rodriguez,"bottled water,soda,red/blush wine,long life bakery product,newspapers",Credit Card,Atlanta
+1000000617,30-05-2023 06:36,Christian Hale,rolls/buns,Debit Card,San Francisco
+1000000618,25-04-2024 00:38,Jessica Carr,"pastry,canned beer",Mobile Payment,New York
+1000000619,20-09-2020 22:23,Angela Navarro,"pork,whole milk,pastry,sauces",Debit Card,Dallas
+1000000620,27-03-2022 11:22,Kiara Guerrero,"pip fruit,sliced cheese,pastry,white wine,light bulbs,newspapers",Cash,Boston
+1000000621,12-07-2021 06:14,Lori Ramirez,"beef,citrus fruit,tropical fruit,yogurt,UHT-milk,frozen vegetables,rolls/buns,bottled water,skin care",Cash,Los Angeles
+1000000622,18-12-2020 19:54,Valerie Perry,"beef,citrus fruit,berries,brown bread,sugar,coffee,kitchen towels",Cash,Seattle
+1000000623,01-04-2022 22:07,Kelsey Moore,"rolls/buns,spices",Mobile Payment,Seattle
+1000000624,08-10-2023 20:44,Travis Parker,"citrus fruit,tropical fruit,herbs,whole milk,butter,curd,whipped/sour cream,frozen vegetables,canned vegetables,misc. beverages",Debit Card,San Francisco
+1000000625,31-08-2020 09:08,Christopher Horton,"meat,beef,herbs,whole milk,frozen dessert,rolls/buns,semi-finished bread,flour,oil,coffee,pot plants",Mobile Payment,Chicago
+1000000626,21-07-2022 05:59,Jason Brown,"beverages,pastry,bottled water",Cash,Los Angeles
+1000000627,17-03-2020 20:07,Courtney Sexton,"beef,citrus fruit,other vegetables,rolls/buns",Credit Card,Atlanta
+1000000628,12-05-2021 13:38,Randy Valencia,"ham,whole milk,white bread,margarine,hair spray",Credit Card,Seattle
+1000000629,21-10-2023 13:16,Beverly Robinson,"hamburger meat,whole milk,oil,ketchup,soups,Instant food products,canned fish,coffee,bottled beer,hygiene articles,newspapers",Cash,San Francisco
+1000000630,04-02-2024 11:32,Linda Thornton,"beef,citrus fruit,other vegetables,butter milk,sliced cheese,processed cheese,rolls/buns,margarine,bottled water,fruit/vegetable juice",Cash,San Francisco
+1000000631,21-04-2020 10:47,Scott Beck,"beef,citrus fruit,whole milk,domestic eggs,rolls/buns,pastry,roll products ,tea,fruit/vegetable juice",Mobile Payment,Dallas
+1000000632,19-12-2021 21:34,David Schmidt,"root vegetables,whole milk,detergent",Cash,San Francisco
+1000000633,02-06-2021 13:37,James Mcdaniel,"citrus fruit,tropical fruit,grapes,other vegetables,frozen vegetables,pickled vegetables,fruit/vegetable juice,liquor,rum,liquor (appetizer),candy,cling film/bags",Cash,Houston
+1000000634,25-10-2022 17:29,Travis Bates,"yogurt,bottled water",Mobile Payment,Seattle
+1000000635,13-01-2023 13:51,Patrick Lewis,"tropical fruit,root vegetables,other vegetables,whipped/sour cream,brown bread,canned fish,long life bakery product",Mobile Payment,Dallas
+1000000636,08-02-2022 00:06,Michael Schaefer,"frankfurter,root vegetables,newspapers",Credit Card,Houston
+1000000637,03-03-2022 20:49,Christopher Taylor,"beef,other vegetables,whole milk,brown bread,pastry,salty snack,abrasive cleaner,shopping bags",Credit Card,San Francisco
+1000000638,02-09-2022 01:24,Guy Chan,shopping bags,Mobile Payment,San Francisco
+1000000639,25-01-2020 22:28,Ryan Bishop,canned beer,Credit Card,Seattle
+1000000640,30-08-2020 08:11,Andrew Baker,"rolls/buns,canned beer",Debit Card,San Francisco
+1000000641,15-02-2020 03:19,Jared Norton,"other vegetables,rolls/buns,meat spreads,bottled water,soda,misc. beverages,waffles,chocolate,candy",Debit Card,Miami
+1000000642,17-06-2020 12:55,Molly Wilson,"hamburger meat,other vegetables,yogurt,rolls/buns,bottled water",Credit Card,Houston
+1000000643,18-01-2022 19:00,Lindsay Rogers,"hamburger meat,citrus fruit,root vegetables,rolls/buns,Instant food products,canned fish,bottled water,soda,fruit/vegetable juice,napkins",Debit Card,New York
+1000000644,29-01-2021 16:52,Rita Williams,"frankfurter,sausage,domestic eggs,soda,chewing gum,shopping bags",Cash,Dallas
+1000000645,09-08-2020 14:38,Bobby French,bottled beer,Mobile Payment,Atlanta
+1000000646,20-06-2021 04:48,Elizabeth Ortega,"tropical fruit,domestic eggs,rolls/buns,pastry",Debit Card,Chicago
+1000000647,19-11-2020 07:41,Dr. Christina Kelly,soda,Debit Card,Boston
+1000000648,22-04-2021 09:25,Cynthia Fuentes,"frankfurter,root vegetables,onions,other vegetables,white bread,canned beer",Mobile Payment,Dallas
+1000000649,08-09-2023 19:12,Christopher Fowler,"chicken,hamburger meat,herbs,whipped/sour cream,soups,soda,canned beer,dish cleaner,napkins,cling film/bags",Credit Card,Chicago
+1000000650,11-11-2021 02:53,Toni Goodwin,"coffee,soda",Cash,Boston
+1000000651,21-01-2020 19:03,Katelyn Watts,whole milk,Cash,Chicago
+1000000652,09-03-2023 23:55,Daniel Stevens,margarine,Debit Card,Seattle
+1000000653,06-01-2024 18:34,Steven Calhoun,"tropical fruit,other vegetables",Mobile Payment,Los Angeles
+1000000654,01-12-2022 21:08,Jeffrey Alexander,"meat,other vegetables",Credit Card,Boston
+1000000655,23-02-2022 11:35,Paul Gonzalez,"cream cheese ,bottled water,canned beer",Mobile Payment,Chicago
+1000000656,08-04-2022 13:36,James Lloyd,newspapers,Credit Card,Atlanta
+1000000657,16-03-2023 10:55,Melanie Smith,"rolls/buns,pastry,newspapers",Mobile Payment,Dallas
+1000000658,12-09-2021 19:45,Charlotte Johnson,"citrus fruit,other vegetables,whole milk,curd,yogurt,potato products,fruit/vegetable juice,long life bakery product",Cash,New York
+1000000659,13-02-2021 23:38,Heather Shannon,"whole milk,rolls/buns,detergent",Debit Card,Atlanta
+1000000660,05-07-2021 06:12,Angela Anderson,"frankfurter,citrus fruit,butter milk,UHT-milk,rolls/buns,female sanitary products,shopping bags",Mobile Payment,Houston
+1000000661,29-06-2022 14:28,Frank Jackson,"ham,other vegetables,butter,whipped/sour cream,sugar,soda",Credit Card,Miami
+1000000662,05-07-2023 20:32,Lindsay Wells,"frankfurter,citrus fruit,bottled beer,salty snack",Mobile Payment,Miami
+1000000663,20-11-2021 09:24,Andrew Key,"sausage,onions,curd,yogurt,domestic eggs,coffee",Mobile Payment,Dallas
+1000000664,05-04-2020 00:50,Joseph Newton,domestic eggs,Mobile Payment,Los Angeles
+1000000665,14-04-2024 15:16,Megan Bowers,"whole milk,domestic eggs,rolls/buns,soda",Mobile Payment,Miami
+1000000666,23-04-2020 13:48,Ricky Powers,"rolls/buns,bottled beer,newspapers",Debit Card,Atlanta
+1000000667,14-03-2023 19:13,Michael Murphy,"whole milk,hard cheese,chocolate marshmallow",Debit Card,Atlanta
+1000000668,11-01-2023 09:20,Meghan Nelson,"sausage,root vegetables,other vegetables,rolls/buns,soda",Credit Card,Houston
+1000000669,07-01-2024 07:18,William Turner,"curd,butter milk,yogurt,beverages",Debit Card,Los Angeles
+1000000670,08-08-2023 21:39,Christopher Sutton,bottled water,Credit Card,San Francisco
+1000000671,26-09-2023 19:39,Steve Collins,beef,Mobile Payment,Los Angeles
+1000000672,28-10-2022 13:58,George Butler,"frankfurter,hamburger meat,whole milk,rolls/buns,potato products,mustard,coffee,waffles,chocolate marshmallow,soap,newspapers",Mobile Payment,San Francisco
+1000000673,14-04-2023 22:03,Brittney Quinn,"chicken,butter,newspapers",Cash,San Francisco
+1000000674,27-01-2021 07:10,Margaret Swanson,"sausage,meat,tropical fruit,pip fruit,pastry,sugar,coffee,candles,pot plants",Credit Card,Chicago
+1000000675,01-12-2023 11:17,Mrs. Vanessa Williams MD,"pork,whole milk,whipped/sour cream,beverages",Debit Card,Seattle
+1000000676,05-08-2021 17:51,Michelle Cole,"yogurt,pastry,coffee",Credit Card,Atlanta
+1000000677,10-01-2022 10:40,Nicholas Hunter,"whole milk,sliced cheese,margarine,cat food,detergent,dishes,shopping bags",Mobile Payment,Boston
+1000000678,14-04-2023 18:20,Rebecca Humphrey,"frankfurter,ham,whole milk,yogurt,rolls/buns,pastry,vinegar,sugar,soda,fruit/vegetable juice,napkins",Cash,Boston
+1000000679,14-02-2021 10:43,Tammy Fleming,"beef,whole milk,brown bread,specialty chocolate,newspapers",Credit Card,New York
+1000000680,25-06-2023 10:46,Matthew Baker,"pip fruit,other vegetables,butter milk,cream cheese ,rolls/buns",Debit Card,New York
+1000000681,22-04-2020 08:49,Diana Kelly,"sausage,whole milk,rolls/buns,coffee,chocolate",Debit Card,Chicago
+1000000682,12-05-2022 23:27,Eric Jones,"pastry,coffee",Mobile Payment,Atlanta
+1000000683,17-01-2021 20:31,Martin Dixon,"chicken,beef,specialty chocolate",Mobile Payment,San Francisco
+1000000684,07-07-2023 20:07,Thomas Livingston,"root vegetables,other vegetables,whole milk,sliced cheese,frozen vegetables,frozen fish,frozen dessert,chocolate",Cash,Dallas
+1000000685,18-05-2020 22:05,Harold Thomas,"whole milk,frozen meals,rolls/buns",Credit Card,Houston
+1000000686,28-08-2021 03:42,Dr. Amy Wagner,detergent,Cash,Miami
+1000000687,06-03-2022 22:17,Wendy Carr,"rolls/buns,canned fish",Cash,San Francisco
+1000000688,08-12-2023 18:57,Lisa Washington,house keeping products,Cash,Boston
+1000000689,24-09-2022 06:28,Melissa Crawford,"yogurt,salt,jam,sparkling wine,cleaner",Mobile Payment,Dallas
+1000000690,20-02-2020 08:36,Victoria Brown,"tropical fruit,curd,sliced cheese,rolls/buns,soda",Mobile Payment,Chicago
+1000000691,29-01-2022 14:08,Mr. Charles Ward,tropical fruit,Credit Card,Chicago
+1000000692,22-03-2020 09:35,Terry Villegas,"curd,UHT-milk,artif. sweetener,dental care",Debit Card,Los Angeles
+1000000693,07-03-2021 06:14,Dr. Sherry Mcgrath MD,"beef,berries,onions,rolls/buns",Debit Card,Dallas
+1000000694,04-07-2020 23:44,Mr. Nathan Jones MD,"whole milk,brown bread,pasta,margarine,bottled water,napkins,newspapers",Credit Card,Miami
+1000000695,13-03-2024 21:22,Marcus Beck,"pork,UHT-milk,bottled water,soda,canned beer",Cash,Dallas
+1000000696,21-08-2022 13:08,Holly White,"other vegetables,curd,yogurt,curd cheese,margarine,cleaner,hygiene articles",Credit Card,Miami
+1000000697,26-05-2021 23:56,Amy Thomas,"rolls/buns,soda,fruit/vegetable juice,canned beer,white wine,long life bakery product,shopping bags",Credit Card,Dallas
+1000000698,10-01-2021 16:25,Michele Cook,"frankfurter,pip fruit,whole milk,rolls/buns,roll products ",Cash,Seattle
+1000000699,25-06-2021 10:42,Megan Duran,"yogurt,hygiene articles,newspapers,shopping bags",Cash,Houston

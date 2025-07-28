@@ -1,0 +1,14 @@
+PatientID,Name,Age,Gender,AdmissionDate,DischargeDate,Department,Doctor,Diagnosis,BillAmount
+1001,John Doe,45,M,2025-01-10,2025-01-15,Cardiology,Dr. Smith,Hypertension,12500
+1002,Jane Smith,29,F,2025-02-02,2025-02-05,Orthopedics,Dr. Patel,Fracture,8200
+1003,Samuel Lee,60,M,2025-03-18,2025-03-25,Neurology,Dr. Kumar,Stroke,27500
+1004,Aisha Khan,50,F,2025-04-12,2025-04-14,General Surgery,Dr. Singh,Appendicitis,15600
+1005,Mohammed Ali,35,M,2025-05-01,2025-05-03,ENT,Dr. Gupta,Tonsillitis,5600
+1006,Laura Chen,42,F,2025-05-10,2025-05-13,Obstetrics,Dr. Rao,Delivery,23000
+1007,Robert Brown,70,M,2025-06-01,2025-06-10,Oncology,Dr. Verma,Cancer,45000
+1008,Emily Davis,23,F,2025-06-05,2025-06-06,Dermatology,Dr. Nair,Allergy,3900
+1009,David Wilson,55,M,2025-06-07,2025-06-12,Cardiology,Dr. Smith,Arrhythmia,19800
+1010,Anita Desai,40,F,2025-06-08,2025-06-11,Gastroenterology,Dr. Shah,Ulcer,11200
+1011,George Miller,67,M,2025-06-09,2025-06-14,Pulmonology,Dr. Mehta,COPD,17600
+1012,Nina Thomas,31,F,2025-06-10,2025-06-12,Pediatrics,Dr. Fernandes,Asthma,7800
+1013,Karan Mehra,48,M,2025-06-11,2025-06-15,Urology,Dr. Aggarwal,Stones,14200
